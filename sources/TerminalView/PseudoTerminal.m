@@ -6816,14 +6816,19 @@ hidingToolbeltShouldResizeWindow:(BOOL)hidingToolbeltShouldResizeWindow
             return !exitingLionFullscreen_;
 
         case WINDOW_TYPE_NORMAL:
-            if (@available(macOS 26, *)) {
-                RLog(@"YES - macOS 26 with window type %@", @(self.windowType));
-                return YES;
-            }
-            // FALL THROUGH
         case WINDOW_TYPE_ACCESSORY:
         case WINDOW_TYPE_MAXIMIZED:
         case WINDOW_TYPE_CENTERED:
+            if (@available(macOS 26, *)) {
+                // On Tahoe the tab bar is a titlebar accessory that blends with
+                // the titlebar. This applies to all titled window types, not just
+                // normal windows: accessory (single-use) and maximized/centered
+                // windows would otherwise keep the tab bar in the content view,
+                // giving them a mismatched tab bar background and a titlebar
+                // separator line.
+                RLog(@"YES - macOS 26 with window type %@", @(self.windowType));
+                return YES;
+            }
             if (![iTermAdvancedSettingsModel allowTabbarInTitlebarAccessoryBigSur]) {
                 return NO;
             }
