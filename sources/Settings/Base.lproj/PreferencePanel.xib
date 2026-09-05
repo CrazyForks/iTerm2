@@ -1616,7 +1616,6 @@ CA
         <customObject id="p8i-eM-oBc" userLabel="Prefs&gt;Profiles&gt;Colors View Controller" customClass="ProfilesColorsPreferencesViewController">
             <connections>
                 <outlet property="_activePaneBorderColor" destination="z7z-HP-SD4" id="SsM-0U-IwT"/>
-                <outlet property="_hdrCursor" destination="zI8-aW-nUw" id="iHd-rC-ur0"/>
                 <outlet property="_ansi0Color" destination="2297" id="Naq-Zb-19H"/>
                 <outlet property="_ansi0ColorLabel" destination="2344" id="aGx-am-kfT"/>
                 <outlet property="_ansi10Color" destination="2300" id="Wzc-Vc-Wl8"/>
@@ -1661,6 +1660,7 @@ CA
                 <outlet property="_foregroundColorLabel" destination="2276" id="Zs5-3K-56e"/>
                 <outlet property="_guideColor" destination="Yny-j0-8Wk" id="eF1-gy-5fc"/>
                 <outlet property="_harmonize256" destination="iuq-9l-xMR" id="20V-Im-ADa"/>
+                <outlet property="_hdrCursor" destination="zI8-aW-nUw" id="iHd-rC-ur0"/>
                 <outlet property="_hueVisualization" destination="GVg-ue-xgc" id="foU-uf-ty5"/>
                 <outlet property="_imeCursorColor" destination="P9A-ht-5mp" id="Kf9-gv-ZlY"/>
                 <outlet property="_imeCursorColorLabel" destination="tnd-Ng-cWZ" id="hQb-xO-xyO"/>
@@ -10682,7 +10682,7 @@ instead of the system keyboard.</string>
                                         <tableColumnResizingMask key="resizingMask" resizeWithTable="YES"/>
                                         <prototypeCellViews>
                                             <tableCellView id="W6M-oM-X4N">
-                                                <rect key="frame" x="566.5" y="1" width="353" height="17"/>
+                                                <rect key="frame" x="567" y="1" width="353" height="17"/>
                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                 <subviews>
                                                     <textField focusRingType="none" verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="n68-XZ-ujb">

@@ -426,7 +426,12 @@ typedef struct {
         // character. The box-frame exception rule is shared with the legacy path.
         if (_cursorInfo.useHDRWhite &&
             [iTermCursor hdrCursorForcesWhiteForType:_cursorInfo.type focused:focused]) {
-            _cursorInfo.cursorColor = [NSColor whiteColor];
+            // Use an sRGB white, not +whiteColor: the latter is in the Generic Gray
+            // colorspace, and the Metal driver reads -redComponent/-green/-blue off
+            // this color, which raises NSColorRaiseWithColorSpaceError for a
+            // non-RGB colorspace. The EDR boost comes from the useHDRCursor flag,
+            // not from component values above 1, so a plain sRGB white is correct.
+            _cursorInfo.cursorColor = [[NSColor whiteColor] colorUsingColorSpace:[NSColorSpace sRGBColorSpace]];
         }
         {
             const screen_char_t *const line = _rows[_cursorInfo.coord.y]->_screenCharLine.line;
