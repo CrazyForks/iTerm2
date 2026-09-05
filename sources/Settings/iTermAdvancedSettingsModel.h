@@ -46,6 +46,9 @@ extern NSString *const kAdvancedSettingIdentifier;
 extern NSString *const kAdvancedSettingType;
 extern NSString *const kAdvancedSettingDefaultValue;
 extern NSString *const kAdvancedSettingDescription;
+// The stable, non-localized category name (e.g. @"Tabs") used to group settings. Its localized
+// form is used only for the display header.
+extern NSString *const kAdvancedSettingCategory;
 extern NSString *const kAdvancedSettingSetter;
 extern NSString *const kAdvancedSettingGetter;
 

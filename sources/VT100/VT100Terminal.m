@@ -3995,7 +3995,7 @@ static BOOL VT100TokenIsTmux(VT100Token *token) {
 
     NSString *name = [dict[@"name"] stringByBase64DecodingStringWithEncoding:NSUTF8StringEncoding];
     if (!name) {
-        name = @"Unnamed file";
+        name = NSLocalizedStringWithDefaultValue(@"VT100Terminal.UnnamedFile", nil, [NSBundle mainBundle], @"Unnamed file", @"Fallback name shown for a file transferred with no name.");
     }
 
     const BOOL forceWide = [dict[@"mode"] isEqualToString:@"wide"];

@@ -661,6 +661,14 @@ UI Improvements:
 - Cleaner glass material on the jobs popover.
 - Scroll command marks to top (instead of
   centering) on Next/Previous Mark.
+- iTerm2 can now run in Brazilian
+  Portuguese. Pick your language in System
+  Settings > General > Language & Region.
+- More of the interface is now translatable:
+  trigger and toolbelt names, smart selection
+  rule names, menu tips, tips of the day, the
+  companion device setup, and the Python REPL
+  banner.
 
 Input and Accessibility:
 - VoiceOver now announces terminal output and

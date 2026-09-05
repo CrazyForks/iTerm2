@@ -1,0 +1,198 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "BPF-Ns-hhl.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"HEADER CELL\"; ObjectID = \"BPF-Ns-hhl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "HEADER CELL"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CÉLULA DE CABEÇALHO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HEADER CELL"
+          }
+        }
+      }
+    },
+    "F0z-JX-Cv5.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Find Globally\"; ObjectID = \"F0z-JX-Cv5\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find Globally"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar globalmente"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全局查找"
+          }
+        }
+      }
+    },
+    "lB6-jU-NcS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Substring — Case Sensitive\"; ObjectID = \"lB6-jU-NcS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Substring — Case Sensitive"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Substring - distinção de maiúsculas"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子字符串 — 区分大小写"
+          }
+        }
+      }
+    },
+    "oQV-ia-c2e.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Substring — Automatic\"; ObjectID = \"oQV-ia-c2e\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Substring — Automatic"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Substring - automático"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子字符串 — 自动"
+          }
+        }
+      }
+    },
+    "PDj-il-aje.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Regex — Case Insensitive\"; ObjectID = \"PDj-il-aje\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Regex — Case Insensitive"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regex - sem distinção de maiúsculas"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正则表达式 — 不区分大小写"
+          }
+        }
+      }
+    },
+    "QAS-VR-5CF.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Find\"; ObjectID = \"QAS-VR-5CF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找"
+          }
+        }
+      }
+    },
+    "rAb-YJ-OeS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Regex — Case Sensitive\"; ObjectID = \"rAb-YJ-OeS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Regex — Case Sensitive"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regex - distinção de maiúsculas"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正则表达式 — 区分大小写"
+          }
+        }
+      }
+    },
+    "WUN-bs-wb8.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Substring — Case Insensitive\"; ObjectID = \"WUN-bs-wb8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Substring — Case Insensitive"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Substring - sem distinção de maiúsculas"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子字符串 — 不区分大小写"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

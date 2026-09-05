@@ -11,6 +11,16 @@
 
 @class iTermShortcutInputView;
 
+// What the recorded shortcut will be used for. Drives the confirmation shown for likely-accidental
+// keypresses; a complete localized sentence is built per case rather than injecting a translated
+// clause. iTermShortcutInputViewPurposeNone disables that confirmation.
+typedef NS_ENUM(NSInteger, iTermShortcutInputViewPurpose) {
+    iTermShortcutInputViewPurposeNone = 0,
+    iTermShortcutInputViewPurposeHotkey,
+    iTermShortcutInputViewPurposeLeader,
+    iTermShortcutInputViewPurposeOpenQuicklyHotkey,
+};
+
 @protocol iTermShortcutInputViewDelegate <NSObject>
 
 - (void)shortcutInputView:(iTermShortcutInputView *)view didReceiveKeyPressEvent:(NSEvent *)event;
@@ -30,7 +40,8 @@
 @property(nonatomic, assign) NSBackgroundStyle backgroundStyle;
 @property(nonatomic, retain) iTermShortcut *shortcut;
 @property(nonatomic) BOOL leaderAllowed;
-@property(nonatomic, copy) NSString *purpose;  // if you set this then the user will need to confirm likely-accidental keypresses. It should be a phrase like "as a hotkey".
+// Set this to something other than None and the user will need to confirm likely-accidental keypresses.
+@property(nonatomic) iTermShortcutInputViewPurpose purpose;
 
 - (void)handleShortcutEvent:(NSEvent *)event;
 

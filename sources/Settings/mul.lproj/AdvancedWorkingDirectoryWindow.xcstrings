@@ -1,0 +1,414 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "5JZ-fv-M9U.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Reuse previous session's directory\"; ObjectID = \"5JZ-fv-M9U\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reuse previous session's directory"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reutilizar o diretório da sessão anterior"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复用上一会话的目录"
+          }
+        }
+      }
+    },
+    "6mB-LP-747.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Home directory\"; ObjectID = \"6mB-LP-747\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Home directory"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diretório inicial"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主目录"
+          }
+        }
+      }
+    },
+    "8Os-WL-DkE.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Working Directory for New Tabs\"; ObjectID = \"8Os-WL-DkE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Working Directory for New Tabs"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diretório de trabalho para novas abas"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新标签页的工作目录"
+          }
+        }
+      }
+    },
+    "BSH-xK-ICw.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Radio\"; ObjectID = \"BSH-xK-ICw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Radio"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radio"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "单选按钮"
+          }
+        }
+      }
+    },
+    "buH-xK-CVR.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Working Directory for New Windows\"; ObjectID = \"buH-xK-CVR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Working Directory for New Windows"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diretório de trabalho para novas janelas"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新窗口的工作目录"
+          }
+        }
+      }
+    },
+    "dfK-M9-Uwn.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Reuse previous session's directory\"; ObjectID = \"dfK-M9-Uwn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reuse previous session's directory"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reutilizar o diretório da sessão anterior"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复用上一会话的目录"
+          }
+        }
+      }
+    },
+    "fDX-Cg-ad9.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Radio\"; ObjectID = \"fDX-Cg-ad9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Radio"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radio"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "单选按钮"
+          }
+        }
+      }
+    },
+    "ffv-Al-noL.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Reuse previous session's directory\"; ObjectID = \"ffv-Al-noL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reuse previous session's directory"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reutilizar o diretório da sessão anterior"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复用上一会话的目录"
+          }
+        }
+      }
+    },
+    "Ieo-mE-vpq.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Directory:\"; ObjectID = \"Ieo-mE-vpq\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Directory:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diretório:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目录："
+          }
+        }
+      }
+    },
+    "MWK-km-GHQ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Working Directory for New Split Panes\"; ObjectID = \"MWK-km-GHQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Working Directory for New Split Panes"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diretório de trabalho para novos painéis divididos"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新拆分窗格的工作目录"
+          }
+        }
+      }
+    },
+    "nKk-F6-OG0.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Advanced Working Directory Settings\"; ObjectID = \"nKk-F6-OG0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Advanced Working Directory Settings"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes avançados do diretório de trabalho"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级工作目录设置"
+          }
+        }
+      }
+    },
+    "nUw-Py-iKc.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Directory:\"; ObjectID = \"nUw-Py-iKc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Directory:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diretório:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目录："
+          }
+        }
+      }
+    },
+    "SD9-ei-Zdb.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Directory:\"; ObjectID = \"SD9-ei-Zdb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Directory:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diretório:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目录："
+          }
+        }
+      }
+    },
+    "VBx-Lu-ahF.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Radio\"; ObjectID = \"VBx-Lu-ahF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Radio"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radio"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "单选按钮"
+          }
+        }
+      }
+    },
+    "yO6-Oa-WJ3.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Home directory\"; ObjectID = \"yO6-Oa-WJ3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Home directory"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diretório inicial"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主目录"
+          }
+        }
+      }
+    },
+    "Ziq-3t-wcN.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Home directory\"; ObjectID = \"Ziq-3t-wcN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Home directory"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diretório inicial"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主目录"
+          }
+        }
+      }
+    },
+    "zkM-uf-Mpi.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"zkM-uf-Mpi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

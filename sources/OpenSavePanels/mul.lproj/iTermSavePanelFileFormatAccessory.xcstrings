@@ -1,0 +1,54 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Uwr-4G-I6t.title": {
+      "comment": "Class = \"NSButtonCell\"; title = \"Include timestamps\"; ObjectID = \"Uwr-4G-I6t\";",
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Include timestamps"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incluir marcas de tempo"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "包含时间戳"
+          }
+        }
+      }
+    },
+    "qlh-rh-wve.title": {
+      "comment": "Class = \"NSTextFieldCell\"; title = \"File Format:\"; ObjectID = \"qlh-rh-wve\";",
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "File Format:"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Formato do arquivo:"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件格式："
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

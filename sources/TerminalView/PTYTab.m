@@ -511,6 +511,7 @@ static void SetAgainstGrainDim(BOOL isVertical, NSSize *dest, CGFloat value) {
     __weak __typeof(self) weakSelf = self;
     _tabTitleOverrideSwiftyString.observer = ^(NSString * _Nonnull newValue, NSError *error) {
         if (error) {
+            // Localization unneeded
             return [NSString stringWithFormat:@"🐞 %@", error.localizedDescription];
         }
         [weakSelf updateTitleOverrideFromFormatVariable];
@@ -731,7 +732,7 @@ static void SetAgainstGrainDim(BOOL isVertical, NSSize *dest, CGFloat value) {
 
 - (NSString *)stringByAppendingSubtitleForActiveSession:(NSString *)title {
     NSString *subtitle = self.activeSession.subtitle;
-    NSString *statusText = _aggregatedTabStatus.statusText;
+    NSString *statusText = [iTermSetTabStatusTrigger localizedStatusForDisplay:_aggregatedTabStatus.statusText];
     if (statusText.length > 0 && iTermUserDefaults.showSessionStatusInTabSubtitle) {
         if (subtitle.length > 0) {
             subtitle = [NSString stringWithFormat:@"%@ \u2013 %@", statusText, subtitle];
@@ -3588,7 +3589,7 @@ static void SetAgainstGrainDim(BOOL isVertical, NSSize *dest, CGFloat value) {
     }
     [theTab setParentWindow:term];
     theTab.delegate = term;
-    [theTab->tabViewItem_ setLabel:@"Restoring..."];
+    [theTab->tabViewItem_ setLabel:NSLocalizedStringWithDefaultValue(@"PTYTab.Restoring", nil, [NSBundle mainBundle], @"Restoring...", @"Tab label shown while a tab is being restored")];
 
     [theTab setObjectCount:[term numberOfTabs] + 1];
 
@@ -6151,7 +6152,7 @@ typedef struct {
     [self updateTabTitle];
     for (PTYSession *session in self.sessions) {
         if ([session checkForCyclesInSwiftyStrings]) {
-            _tabTitleOverrideSwiftyString.swiftyString = @"[Cycle detected]";
+            _tabTitleOverrideSwiftyString.swiftyString = NSLocalizedStringWithDefaultValue(@"PTYTab.CycleDetected", nil, [NSBundle mainBundle], @"[Cycle detected]", @"Placeholder tab title shown when a cycle is detected in the title format");
         }
     }
 }
@@ -7026,11 +7027,11 @@ typedef struct {
                 // See if a notification should be posted.
                 if (!session.havePostedIdleNotification && [session shouldPostUserNotification]) {
                     NSString *theDescription =
-                        [NSString stringWithFormat:@"Session %@ in tab #%d became idle.",
+                        [NSString stringWithFormat:NSLocalizedStringWithDefaultValue(@"PTYTab.SessionBecameIdle", nil, [NSBundle mainBundle], @"Session %1$@ in tab #%2$d became idle.", @"Notification body; %@ is the session name and %d is the tab number"),
                             [[session name] removingHTMLFromTabTitleIfNeeded],
                             [self tabNumber]];
                     if ([iTermProfilePreferences boolForKey:KEY_SEND_IDLE_ALERT inProfile:session.profile]) {
-                        [[iTermNotificationController sharedInstance] notify:@"Idle"
+                        [[iTermNotificationController sharedInstance] notify:NSLocalizedStringWithDefaultValue(@"PTYTab.Idle", nil, [NSBundle mainBundle], @"Idle", @"Notification title shown when a session becomes idle")
                                                          withDescription:theDescription
                                                              windowIndex:[session screenWindowIndex]
                                                                 tabIndex:[session screenTabIndex]
@@ -7069,11 +7070,8 @@ typedef struct {
         notify &&
         [[NSDate date] timeIntervalSinceDate:[SessionView lastResizeDate]] > POST_WINDOW_RESIZE_SILENCE_SEC) {
         if ([iTermProfilePreferences boolForKey:KEY_SEND_NEW_OUTPUT_ALERT inProfile:self.activeSession.profile]) {
-            [[iTermNotificationController sharedInstance] notify:NSLocalizedStringFromTableInBundle(@"New Output",
-                                                                                                @"iTerm",
-                                                                                                [NSBundle bundleForClass:[self class]],
-                                                                                                @"User Alerts")
-                                             withDescription:[NSString stringWithFormat:@"New output was received in %@, tab #%d.",
+            [[iTermNotificationController sharedInstance] notify:NSLocalizedStringWithDefaultValue(@"PTYTab.NewOutputTitle", nil, [NSBundle mainBundle], @"New Output", @"Notification title shown when new output arrives in a background session")
+                                             withDescription:[NSString stringWithFormat:NSLocalizedStringWithDefaultValue(@"PTYTab.NewOutputReceived", nil, [NSBundle mainBundle], @"New output was received in %1$@, tab #%2$d.", @"Notification body; %@ is the session name and %d is the tab number"),
                                                               [[[self activeSession] name] removingHTMLFromTabTitleIfNeeded],
                                                               [self tabNumber]]
                                                  windowIndex:[[self activeSession] screenWindowIndex]

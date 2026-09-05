@@ -170,6 +170,7 @@
 #import "iTermVariables.h"
 #import "iTermVirtualOffset.h"
 #import "iTermWarning.h"
+#import "iTermStandardButtons.h"
 #import "iTermWorkingDirectoryPoller.h"
 #import "iTermWorkingDirectoryProvider.h"
 #import "WindowControllerInterface.h"

@@ -180,7 +180,7 @@ typedef enum {
         [tableView_ setTagsOpen:YES animated:NO];
     }
     // Load the new window icon for split buttons
-    _newWindowIcon = [NSImage imageWithSystemSymbolName:@"rectangle.badge.plus" accessibilityDescription:@"Open in new window"];
+    _newWindowIcon = [NSImage imageWithSystemSymbolName:@"rectangle.badge.plus" accessibilityDescription:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.NewWindowIconAccessibility", nil, [NSBundle mainBundle], @"Open in new window", @"Accessibility description for the open-in-new-window split button icon")];
     [horizontalPaneButton_ setImagePosition:NSImageLeft];
     [verticalPaneButton_ setImagePosition:NSImageLeft];
 }
@@ -341,7 +341,7 @@ typedef enum {
 }
 
 - (void)profileTableTagsVisibilityDidChange:(ProfileListView *)profileListView {
-    [toggleTagsButton_ setTitle:profileListView.tagsVisible ? @"< Tags" : @"Tags >"];
+    [toggleTagsButton_ setTitle:profileListView.tagsVisible ? NSLocalizedStringWithDefaultValue(@"ProfilesWindow.CollapseTags", nil, [NSBundle mainBundle], @"< Tags", @"Button title to hide the tags sidebar") : NSLocalizedStringWithDefaultValue(@"ProfilesWindow.ExpandTags", nil, [NSBundle mainBundle], @"Tags >", @"Button title to show the tags sidebar")];
 }
 
 - (void)profileTableSelectionDidChange:(id)profileTable
@@ -361,7 +361,9 @@ typedef enum {
         // don't want to break that.
         [tabButton_ setEnabled:!anySelectionDisablesTabs];
         [windowButton_ setEnabled:YES];
-        [windowButton_ setTitle:([guids count] > 1 ? @"New Windows" : @"New Window")];
+        [windowButton_ setTitle:([guids count] > 1
+                                 ? NSLocalizedStringWithDefaultValue(@"ProfilesWindow.NewWindows", nil, [NSBundle mainBundle], @"New Windows", @"Button to open selected profiles each in a new window")
+                                 : NSLocalizedStringWithDefaultValue(@"ProfilesWindow.NewWindow", nil, [NSBundle mainBundle], @"New Window", @"Button to open a profile in a new window"))];
         if ([guids count] > 1) {
             [newTabsInNewWindowButton_ setEnabled:!anySelectionDisablesTabs];
             [horizontalPaneButton_ setEnabled:YES];
@@ -431,24 +433,25 @@ typedef enum {
 }
 
 - (NSMenu *)profileTable:(id)profileTable menuForEvent:(NSEvent *)theEvent {
+    // Localization unneeded
     NSMenu *menu = [[NSMenu alloc] initWithTitle:@"Contextual Menu"];
 
     int count = [[profileTable selectedGuids] count];
     if (count == 1) {
-        [menu addItemWithTitle:@"Edit Profile..."
+        [menu addItemWithTitle:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.EditProfile", nil, [NSBundle mainBundle], @"Edit Profile...", @"Context menu item to edit the selected profile")
                         action:@selector(editSelectedBookmark:)
                  keyEquivalent:@""];
-        [menu addItemWithTitle:@"Open in New Tab"
+        [menu addItemWithTitle:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.OpenInNewTab", nil, [NSBundle mainBundle], @"Open in New Tab", @"Context menu item to open the selected profile in a new tab")
                         action:@selector(openBookmarkInTab:)
                  keyEquivalent:@""];
-        [menu addItemWithTitle:@"Open in New Window"
+        [menu addItemWithTitle:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.OpenInNewWindow", nil, [NSBundle mainBundle], @"Open in New Window", @"Context menu item to open the selected profile in a new window")
                         action:@selector(openBookmarkInWindow:)
                  keyEquivalent:@""];
     } else if (count > 1) {
-        [menu addItemWithTitle:@"Open in New Tabs"
+        [menu addItemWithTitle:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.OpenInNewTabs", nil, [NSBundle mainBundle], @"Open in New Tabs", @"Context menu item to open multiple selected profiles each in a new tab")
                         action:@selector(openBookmarkInTab:)
                  keyEquivalent:@""];
-        [menu addItemWithTitle:@"Open in New Windows"
+        [menu addItemWithTitle:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.OpenInNewWindows", nil, [NSBundle mainBundle], @"Open in New Windows", @"Context menu item to open multiple selected profiles each in a new window")
                         action:@selector(openBookmarkInWindow:)
                  keyEquivalent:@""];
     }

@@ -1,0 +1,630 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "2Tz-89-YHl.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"⌥ Option\"; ObjectID = \"2Tz-89-YHl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "⌥ Option"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌥ Option"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌥ Option"
+          }
+        }
+      }
+    },
+    "3jk-f9-QFs.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Pin hotkey window (stays open on loss of keyboard focus)\"; ObjectID = \"3jk-f9-QFs\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pin hotkey window (stays open on loss of keyboard focus)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fixar janela de hotkey (permanece aberta ao perder o foco do teclado)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "固定热键窗口（失去键盘焦点时保持打开）"
+          }
+        }
+      }
+    },
+    "4F4-bg-0BG.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Hotkey:\"; ObjectID = \"4F4-bg-0BG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hotkey:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotkey:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "热键："
+          }
+        }
+      }
+    },
+    "6tA-bg-olR.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Note: the window is reopened only if it was closed because another app became active.\"; ObjectID = \"6tA-bg-olR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note: the window is reopened only if it was closed because another app became active."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nota: a janela só é reaberta se tiver sido fechada porque outro app se tornou ativo."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注意：仅当窗口因其他应用变为活动而关闭时，才会重新打开。"
+          }
+        }
+      }
+    },
+    "bEG-lb-Vft.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Additional Hotkeys\"; ObjectID = \"bEG-lb-Vft\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Additional Hotkeys"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotkeys adicionais"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "其他热键"
+          }
+        }
+      }
+    },
+    "dHI-y9-qMI.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"When you press the hotkey bound to this profile a dedicated window will show or hide. Each profile with a hotkey controls its own Hotkey Window.\"; ObjectID = \"dHI-y9-qMI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When you press the hotkey bound to this profile a dedicated window will show or hide. Each profile with a hotkey controls its own Hotkey Window."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ao pressionar a hotkey vinculada a este perfil, uma janela dedicada será exibida ou ocultada. Cada perfil com uma hotkey controla sua própria janela de hotkey."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按下此配置文件绑定的热键时，专用窗口将显示或隐藏。每个带热键的配置文件都控制自己的热键窗口。"
+          }
+        }
+      }
+    },
+    "EOt-Jx-9Xl.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Don’t do anything special\"; ObjectID = \"EOt-Jx-9Xl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Don’t do anything special"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não fazer nada de especial"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不做任何特殊处理"
+          }
+        }
+      }
+    },
+    "FSQ-IF-ujS.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"⚠️\"; ObjectID = \"FSQ-IF-ujS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "⚠️"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️"
+          }
+        }
+      }
+    },
+    "Hhf-xq-TzE.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Show this Hotkey Window\"; ObjectID = \"Hhf-xq-TzE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show this Hotkey Window"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar esta janela de hotkey"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示此热键窗口"
+          }
+        }
+      }
+    },
+    "J17-Oy-pHl.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"HotKey Window Preferences\"; ObjectID = \"J17-Oy-pHl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "HotKey Window Preferences"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes da janela de hotkey"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "热键窗口设置"
+          }
+        }
+      }
+    },
+    "Jg9-HV-xDm.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"⌘ Command\"; ObjectID = \"Jg9-HV-xDm\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "⌘ Command"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘ Command"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘ Command"
+          }
+        }
+      }
+    },
+    "kMo-jN-Ngc.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"⚠️ Another profile uses this shortcut\"; ObjectID = \"kMo-jN-Ngc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "⚠️ Another profile uses this shortcut"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️ Outro perfil usa este atalho"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️ 另一个配置文件使用了此快捷键"
+          }
+        }
+      }
+    },
+    "l57-vU-TNJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"⇧ Shift\"; ObjectID = \"l57-vU-TNJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "⇧ Shift"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⇧ Shift"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⇧ Shift"
+          }
+        }
+      }
+    },
+    "lBc-Et-eAS.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Double-tap key:\"; ObjectID = \"lBc-Et-eAS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Double-tap key:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tecla de toque duplo:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连按两次的按键："
+          }
+        }
+      }
+    },
+    "mrJ-OA-dYl.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Automatically reopen on app reactivation\"; ObjectID = \"mrJ-OA-dYl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Automatically reopen on app reactivation"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reabrir automaticamente ao reativar o app"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用重新激活时自动重新打开"
+          }
+        }
+      }
+    },
+    "mtg-a1-mt3.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"⚠️ Another profile uses this double-tap\"; ObjectID = \"mtg-a1-mt3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "⚠️ Another profile uses this double-tap"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️ Outro perfil usa este toque duplo"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️ 另一个配置文件使用了此连按"
+          }
+        }
+      }
+    },
+    "Njf-zs-yLP.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Show this Hotkey Window if no other window is open\"; ObjectID = \"Njf-zs-yLP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show this Hotkey Window if no other window is open"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar esta janela de hotkey se nenhuma outra janela estiver aberta"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果没有其他窗口打开，则显示此热键窗口"
+          }
+        }
+      }
+    },
+    "NTW-IM-ZXD.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Floating windows overlap other windows and the dock, and other apps’ Full Screen windows (if the Hotkey Window’s Space is set to All Spaces).\"; ObjectID = \"NTW-IM-ZXD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Floating windows overlap other windows and the dock, and other apps’ Full Screen windows (if the Hotkey Window’s Space is set to All Spaces)."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Janelas flutuantes se sobrepõem a outras janelas e ao Dock, e às janelas em tela cheia de outros apps (se o espaço da janela de hotkey estiver definido como Todos os espaços)."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "浮动窗口会与其他窗口和 Dock 以及其他应用的“全屏幕”窗口重叠（如果热键窗口的空间设置为“所有空间”）。"
+          }
+        }
+      }
+    },
+    "OGS-mD-pmg.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"OGS-mD-pmg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "t4R-9R-8yk.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"On Dock icon click:\"; ObjectID = \"t4R-9R-8yk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On Dock icon click:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ao clicar no ícone do Dock:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点按 Dock 图标时："
+          }
+        }
+      }
+    },
+    "UCE-Hu-AKa.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Animate showing and hiding\"; ObjectID = \"UCE-Hu-AKa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Animate showing and hiding"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Animar exibição e ocultação"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示和隐藏时使用动画"
+          }
+        }
+      }
+    },
+    "UEa-r8-RNP.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"UEa-r8-RNP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好"
+          }
+        }
+      }
+    },
+    "UUQ-aq-rDa.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"UUQ-aq-rDa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好"
+          }
+        }
+      }
+    },
+    "vtv-eH-WbP.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Floating window\"; ObjectID = \"vtv-eH-WbP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Floating window"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Janela flutuante"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "浮动窗口"
+          }
+        }
+      }
+    },
+    "wp1-Sh-ht3.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"^ Control\"; ObjectID = \"wp1-Sh-ht3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "^ Control"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^ Control"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^ Control"
+          }
+        }
+      }
+    },
+    "y7i-Ti-5SX.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Additional Hotkeys…\"; ObjectID = \"y7i-Ti-5SX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Additional Hotkeys…"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotkeys adicionais…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "其他热键…"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

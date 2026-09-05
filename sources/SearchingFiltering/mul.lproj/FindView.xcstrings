@@ -1,0 +1,150 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "16.title": {
+      "comment": "Class = \"NSMenuItem\"; title = \"Smart Case Substring\"; ObjectID = \"16\";",
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Smart Case Substring"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Substring com caixa inteligente"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "智能大小写子字符串"
+          }
+        }
+      }
+    },
+    "6DZ-ad-yVz.title": {
+      "comment": "Class = \"NSMenuItem\"; title = \"Erase Search History\"; ObjectID = \"6DZ-ad-yVz\";",
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Erase Search History"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apagar histórico de busca"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清除搜索历史"
+          }
+        }
+      }
+    },
+    "6Px-6a-JTm.title": {
+      "comment": "Class = \"NSMenuItem\"; title = \"Case-Insensitive Substring\"; ObjectID = \"6Px-6a-JTm\";",
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Case-Insensitive Substring"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Substring sem diferenciação de maiúsculas"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不区分大小写的子字符串"
+          }
+        }
+      }
+    },
+    "C2V-dA-zRG.title": {
+      "comment": "Class = \"NSMenuItem\"; title = \"Case-Insensitive Regex\"; ObjectID = \"C2V-dA-zRG\";",
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Case-Insensitive Regex"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Regex sem diferenciação de maiúsculas"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不区分大小写的正则表达式"
+          }
+        }
+      }
+    },
+    "IJN-DB-LJ2.title": {
+      "comment": "Class = \"NSMenuItem\"; title = \"Case-Sensitive Substring\"; ObjectID = \"IJN-DB-LJ2\";",
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Case-Sensitive Substring"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Substring com diferenciação de maiúsculas"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区分大小写的子字符串"
+          }
+        }
+      }
+    },
+    "s1o-x7-jkk.title": {
+      "comment": "Class = \"NSMenuItem\"; title = \"Case-Sensitive Regex\"; ObjectID = \"s1o-x7-jkk\";",
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Case-Sensitive Regex"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Regex com diferenciação de maiúsculas"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区分大小写的正则表达式"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

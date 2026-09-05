@@ -302,12 +302,12 @@ extension PTYSession {
                                             sessionID: guid,
                                             baseOffset: screen.totalScrollbackOverflow()))
         guard let client = ChatClient.instance else {
-            iTermWarning.show(withTitle: "AI Chat could not be opened. Verify you only have one instance of iTerm2 running.",
-                              actions: ["OK"],
+            iTermWarning.show(withTitle: String(localized: "PTYSession.AIChatCouldNotOpen", defaultValue: "AI Chat could not be opened. Verify you only have one instance of iTerm2 running.", comment: "Warning shown when AI Chat cannot be opened"),
+                              actions: [iTermLocalizedOK()],
                               accessory: nil,
                               identifier: nil,
                               silenceable: .kiTermWarningTypePersistent,
-                              heading: "Error",
+                              heading: String(localized: "General.Error", defaultValue: "Error", comment: "Generic error heading"),
                               window: self.genericView?.window)
             return
         }
@@ -814,8 +814,7 @@ extension PTYSession {
         // be sure." Report the concrete character count so the result is
         // unmistakably a success.
         let count = normalized.count
-        let noun = count == 1 ? "character" : "characters"
-        try completion("Inserted \(count) \(noun).", "Text inserted by AI.")
+        try completion(String(localized: "PTYSession.InsertedCharacters", defaultValue: "Inserted \(count) characters.", comment: "Result reported after AI inserts text; %lld is the number of characters"), "Text inserted by AI.")
     }
 
     func deleteCurrentLineRemoteCommand(deleteCurrentLine: RemoteCommand.DeleteCurrentLine,
@@ -1716,7 +1715,7 @@ extension PTYSession {
             } catch {
                 RLog("Saving to \(location.description) failed: \(error)")
                 iTermNotificationController.sharedInstance().notify(
-                    "Archiving to \(location.displayName) failed: \(error.localizedDescription)")
+                    String(localized: "PTYSession.ArchivingFailed", defaultValue: "Archiving to \(location.displayName) failed: \(error.localizedDescription)", comment: "Notification shown when archiving a session fails; first placeholder is the destination, second is the error"))
             }
             return
         }
@@ -1729,7 +1728,7 @@ extension PTYSession {
             } catch {
                 RLog("Saving to \(location.description) failed: \(error)")
                 iTermNotificationController.sharedInstance().notify(
-                    "Archiving to \(location.displayName) failed: \(error.localizedDescription)")
+                    String(localized: "PTYSession.ArchivingFailed", defaultValue: "Archiving to \(location.displayName) failed: \(error.localizedDescription)", comment: "Notification shown when archiving a session fails; first placeholder is the destination, second is the error"))
             }
         }
     }
