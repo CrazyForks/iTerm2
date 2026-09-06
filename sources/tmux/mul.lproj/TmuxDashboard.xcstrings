@@ -29,6 +29,12 @@
             "value" : "Painel do tmux"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Панель tmux"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -63,6 +69,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sessão"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сессия"
           }
         },
         "zh-Hans" : {
@@ -101,6 +113,12 @@
             "value" : "Anexar"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Присоединиться"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buscar janelas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск окон"
           }
         },
         "zh-Hans" : {
@@ -173,6 +197,12 @@
             "value" : "Janela"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Окно"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir em janelas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть в окнах"
           }
         },
         "zh-Hans" : {
@@ -245,6 +281,12 @@
             "value" : "Ocultar"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скрыть"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir em janelas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть в окнах"
           }
         },
         "zh-Hans" : {
@@ -317,6 +365,12 @@
             "value" : "Abrir em abas"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть во вкладках"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -351,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desanexar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отсоединиться"
           }
         },
         "zh-Hans" : {
@@ -389,6 +449,12 @@
             "value" : "Abrir painel ao anexar se houver janelas ocultas"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открывать панель при присоединении, если есть скрытые окна"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -423,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Não abrir janelas ao anexar se houver pelo menos esta quantidade de janelas:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не открывать окна при присоединении, если их количество не меньше:"
           }
         },
         "zh-Hans" : {

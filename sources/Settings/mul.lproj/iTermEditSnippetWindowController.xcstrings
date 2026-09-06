@@ -29,6 +29,12 @@
             "value" : "Valor:"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Значение:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -63,6 +69,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Editar fragmento"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редактировать сниппет"
           }
         },
         "zh-Hans" : {
@@ -101,6 +113,12 @@
             "value" : "Título:"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Заголовок:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Texto literal sem escape"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Неэкранированный буквальный текст"
           }
         },
         "zh-Hans" : {
@@ -173,6 +197,12 @@
             "value" : "Use / nos nomes das etiquetas para criar pastas no menu Editar > Fragmentos"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Используйте «/» в именах тегов для создания папок в меню «Правка» > «Сниппеты»"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {
@@ -245,6 +281,12 @@
             "value" : "OK"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escape para compatibilidade retroativa"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Экранирование для обратной совместимости"
           }
         },
         "zh-Hans" : {
@@ -317,6 +365,12 @@
             "value" : "Etiquetas:"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Теги:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -351,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escape de barra invertida estilo C"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Экранирование обратным слэшем в стиле C"
           }
         },
         "zh-Hans" : {

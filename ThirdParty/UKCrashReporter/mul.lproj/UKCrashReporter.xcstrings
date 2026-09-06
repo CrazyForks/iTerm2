@@ -28,6 +28,12 @@
             "state" : "translated",
             "value" : "Descrição"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Описание"
+          }
         }
       }
     },
@@ -57,6 +63,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Log de falhas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Журнал сбоя"
           }
         }
       }
@@ -88,6 +100,12 @@
             "state" : "translated",
             "value" : "Relatório de falhas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отчёт о сбое"
+          }
         }
       }
     },
@@ -117,6 +135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parece que o {APPNAME} travou na última vez em que foi usado. Deseja enviar um log de falhas aos desenvolvedores?\n\nOs logs de falhas da Apple não são enviados a outros desenvolvedores, então esta é a única maneira de os desenvolvedores do {APPNAME} descobrirem e corrigirem esta falha."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Похоже, что {APPNAME} завершилось сбоем при последнем использовании. Хотите отправить журнал сбоя разработчикам?\n\nЖурналы сбоев от Apple не отправляются другим разработчикам, поэтому это единственный способ, с помощью которого разработчики {APPNAME} могут узнать об этом сбое и исправить его."
           }
         }
       }
@@ -148,6 +172,12 @@
             "state" : "translated",
             "value" : "Você pode apagar qualquer informação que não queira transmitir, mas isto tornará mais difícil detectar o bug. Por padrão, são transmitidos o log de falhas, o Mac que você está usando e seus ajustes."
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете удалить любую информацию, которую не хотите передавать, но это усложнит обнаружение ошибки. По умолчанию передаются журнал сбоя, а также сведения о вашем Mac и ваших настройках."
+          }
         }
       }
     },
@@ -177,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enviar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отправить"
           }
         }
       }
@@ -208,6 +244,12 @@
             "state" : "translated",
             "value" : "Lembrar mais tarde"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Напомнить позже"
+          }
         }
       }
     },
@@ -237,6 +279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descartar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отклонить"
           }
         }
       }

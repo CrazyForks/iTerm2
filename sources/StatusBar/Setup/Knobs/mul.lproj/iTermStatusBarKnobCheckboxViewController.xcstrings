@@ -29,6 +29,12 @@
             "value": "Marcar"
           }
         },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Флажок"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",

@@ -29,6 +29,12 @@
             "value" : "Arraste um componente do menu para Componentes ativos a fim de adicioná-lo à sua barra de status."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перетащите компонент из меню в «Активные компоненты», чтобы добавить его в строку состояния."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -63,6 +69,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preferir empacotamento compacto ao posicionamento estável"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Предпочитать плотную упаковку стабильному расположению"
           }
         },
         "zh-Hans" : {
@@ -101,6 +113,12 @@
             "value" : "OK"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Componentes ativos"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Активные компоненты"
           }
         },
         "zh-Hans" : {
@@ -173,6 +197,12 @@
             "value" : "Desativado"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отключено"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Remover componentes com valores vazios"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалять компоненты с пустыми значениями"
           }
         },
         "zh-Hans" : {
@@ -245,6 +281,12 @@
             "value" : "Desenhar separador entre a barra de status e o terminal"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рисовать разделитель между строкой состояния и терминалом"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Automático"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автоматически"
           }
         },
         "zh-Hans" : {
@@ -317,6 +365,12 @@
             "value" : "Menu de componentes da barra de status"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Меню компонентов строки состояния"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -351,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avançado…"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дополнительно…"
           }
         },
         "zh-Hans" : {
@@ -389,6 +449,12 @@
             "value" : "O algoritmo de empacotamento compacto permite que mais componentes da barra de status fiquem visíveis ao mesmo tempo, mas eles tendem a se mover mais."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Алгоритм плотной упаковки позволяет одновременно отображать больше компонентов строки состояния, но они чаще смещаются."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -423,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🌈 Arco-íris automático:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌈 Автоматическая радуга:"
           }
         },
         "zh-Hans" : {
@@ -461,6 +533,12 @@
             "value" : "O nome da fonte aparece aqui"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Здесь появится название шрифта"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -495,6 +573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cores escuras"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тёмные цвета"
           }
         },
         "zh-Hans" : {
@@ -533,6 +617,12 @@
             "value" : "Alterar"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Изменить"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -567,6 +657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cor de texto padrão:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цвет текста по умолчанию:"
           }
         },
         "zh-Hans" : {
@@ -605,6 +701,12 @@
             "value" : "Configurar componente"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настроить компонент"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -639,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O algoritmo de empacotamento compacto permite que mais componentes da barra de status fiquem visíveis ao mesmo tempo, mas eles tendem a se mover mais."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Алгоритм плотной упаковки позволяет одновременно отображать больше компонентов строки состояния, но они чаще смещаются."
           }
         },
         "zh-Hans" : {
@@ -677,6 +785,12 @@
             "value" : "Cor do separador:"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цвет разделителя:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -711,6 +825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {
@@ -749,6 +869,12 @@
             "value" : "Cores claras"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Светлые цвета"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -783,6 +909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonte:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шрифт:"
           }
         },
         "zh-Hans" : {
@@ -821,6 +953,12 @@
             "value" : "Cor do plano de fundo:"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цвет фона:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -857,6 +995,12 @@
             "value" : "OK"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -891,6 +1035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desenha uma linha fina entre a barra de status e o conteúdo do terminal."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рисует тонкую линию между строкой состояния и содержимым терминала."
           }
         },
         "zh-Hans" : {

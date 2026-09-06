@@ -161976,6 +161976,12 @@
             "state" : "translated",
             "value" : "Selos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Значки"
+          }
         }
       }
     },
@@ -162005,6 +162011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Os Perfis dinâmicos permitem armazenar seus perfis como um ou mais arquivos JSON. É ótimo para criar e editar perfis em lote."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Динамические профили позволяют хранить ваши профили в виде одного или нескольких файлов JSON. Это отлично подходит для пакетного создания и редактирования профилей."
           }
         }
       }
@@ -162036,6 +162048,12 @@
             "state" : "translated",
             "value" : "Perfis dinâmicos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Динамические профили"
+          }
         }
       }
     },
@@ -162065,6 +162083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "“Editar > Colar especial > Colagem avançada” permite visualizar e editar o texto antes de colar. Você pode ajustar opções, como lidar com códigos de controle ou até codificar em base-64 antes de colar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«Правка > Специальная вставка > Расширенная вставка» позволяет просмотреть и отредактировать текст перед вставкой. Вы можете настроить параметры, например способ обработки управляющих кодов, или даже закодировать текст в base-64 перед вставкой."
           }
         }
       }
@@ -162096,6 +162120,12 @@
             "state" : "translated",
             "value" : "Colagem avançada"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Расширенная вставка"
+          }
         }
       }
     },
@@ -162125,6 +162155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Já quis focar em um bloco de linhas sem distrações ou limitar a busca à saída de um único comando? Selecione as linhas e escolha “Visualizar > Ampliar seleção”. O conteúdo da sessão será temporariamente substituído pela seleção. Pressione “esc” para reduzir."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хотите сосредоточиться на блоке строк без отвлекающих факторов или ограничить поиск выводом только одной команды? Выделите строки и выберите «Вид > Увеличить выделенную область». Содержимое сессии будет временно заменено выделением. Нажмите «esc», чтобы вернуться обратно."
           }
         }
       }
@@ -162156,6 +162192,12 @@
             "state" : "translated",
             "value" : "Zoom"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Увеличение"
+          }
         }
       }
     },
@@ -162185,6 +162227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O recurso “Semantic History” permite clicar com ⌘ em um arquivo ou URL para abri-lo."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функция «Семантическая история» позволяет открыть файл или URL-адрес щелчком с ⌘."
           }
         }
       }
@@ -162216,6 +162264,12 @@
             "state" : "translated",
             "value" : "Semantic History"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Семантическая история"
+          }
         }
       }
     },
@@ -162245,6 +162299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você usa o tmux, tente executar “tmux -CC” para obter o modo de integração com o tmux do iTerm2. As janelas do tmux aparecem como janelas nativas do iTerm2, e você pode usar os atalhos de teclado do iTerm2. Funciona até por ssh!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вы используете tmux, попробуйте запустить «tmux -CC», чтобы включить режим интеграции iTerm2 с tmux. Окна tmux отображаются как обычные окна iTerm2, и вы можете использовать сочетания клавиш iTerm2. Это работает даже через ssh!"
           }
         }
       }
@@ -162276,6 +162336,12 @@
             "state" : "translated",
             "value" : "Integração com o tmux"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интеграция с tmux"
+          }
         }
       }
     },
@@ -162305,6 +162371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O iTerm2 pode executar automaticamente ações que você define quando um texto que corresponde a uma expressão regular é recebido. Por exemplo, você pode destacar um texto ou mostrar uma caixa de alerta. Configure em “Ajustes > Perfis > Avançado > Gatilhos”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2 может автоматически выполнять заданные вами действия, когда получен текст, соответствующий регулярному выражению. Например, можно выделить текст цветом или показать окно с предупреждением. Настройте это в «Настройки > Профили > Дополнительные > Триггеры»."
           }
         }
       }
@@ -162336,6 +162408,12 @@
             "state" : "translated",
             "value" : "Gatilhos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Триггеры"
+          }
         }
       }
     },
@@ -162365,6 +162443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Clique quatro vezes para usar a Seleção inteligente. Ela descobre se você está selecionando um URL, nome de arquivo, endereço de e-mail etc. com base em expressões regulares priorizadas."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Четыре щелчка подряд запускают умное выделение. Оно определяет, что вы выделяете (URL-адрес, имя файла, адрес электронной почты и т. д.), на основе приоритизированных регулярных выражений."
           }
         }
       }
@@ -162396,6 +162480,12 @@
             "state" : "translated",
             "value" : "Seleção inteligente"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Умное выделение"
+          }
         }
       }
     },
@@ -162425,6 +162515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pressione ⌥⌘B para voltar no tempo em uma janela de terminal. Use as teclas de seta para avançar quadro a quadro. Mantenha ⇧ pressionada e use as teclas de seta para ir mais rápido."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите ⌥⌘B, чтобы вернуться назад во времени в окне терминала. Используйте клавиши со стрелками для перехода по кадрам. Удерживайте ⇧ и нажимайте стрелки, чтобы двигаться быстрее."
           }
         }
       }
@@ -162456,6 +162552,12 @@
             "state" : "translated",
             "value" : "Instant Replay"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мгновенный повтор"
+          }
         }
       }
     },
@@ -162485,6 +162587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode abrir uma janela de terminal com um atalho de teclado, mesmo em outros apps. Clique em “Criar uma janela de tecla de atalho dedicada” em “Ajustes > Teclas”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете открывать окно терминала одним нажатием клавиши, даже находясь в других приложениях. Нажмите «Создать выделенное окно горячих клавиш» в «Настройки > Клавиши»."
           }
         }
       }
@@ -162516,6 +162624,12 @@
             "state" : "translated",
             "value" : "Janela de tecla de atalho"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Окно горячих клавиш"
+          }
         }
       }
     },
@@ -162545,6 +162659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "As janelas de tecla de atalho podem permanecer abertas após perder o foco. Ative em “Janela > Fixar janela de tecla de atalho”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Окна горячих клавиш могут оставаться открытыми после потери фокуса. Включите это в «Окно > Закрепить окно горячих клавиш»."
           }
         }
       }
@@ -162576,6 +162696,12 @@
             "state" : "translated",
             "value" : "Janela de tecla de atalho"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Окно горячих клавиш"
+          }
         }
       }
     },
@@ -162605,6 +162731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A guia do cursor é uma linha horizontal que acompanha o seu cursor. Você pode ativá-la em “Ajustes > Perfis > Cores” ou alterná-la com o atalho ⌥⌘;."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Направляющая курсора представляет собой горизонтальную линию, которая следует за курсором. Её можно включить в «Настройки > Профили > Цвета» или переключить сочетанием клавиш ⌥⌘;."
           }
         }
       }
@@ -162636,6 +162768,12 @@
             "state" : "translated",
             "value" : "Guia do cursor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Направляющая курсора"
+          }
         }
       }
     },
@@ -162665,6 +162803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O recurso Shell Integration permite pedir para ser alertado (⌥⌘A) quando um comando demorado termina."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функция «Интеграция с оболочкой» позволяет получать оповещение (⌥⌘A) о завершении долго выполняющейся команды."
           }
         }
       }
@@ -162696,6 +162840,12 @@
             "state" : "translated",
             "value" : "Shell Integration: alertas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интеграция с оболочкой: оповещения"
+          }
         }
       }
     },
@@ -162725,6 +162875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode configurar a velocidade de piscar do cursor em “Ajustes > Avançado”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скорость мигания курсора можно настроить в «Настройки > Дополнительные»."
           }
         }
       }
@@ -162756,6 +162912,12 @@
             "state" : "translated",
             "value" : "Velocidade de piscar do cursor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скорость мигания курсора"
+          }
         }
       }
     },
@@ -162785,6 +162947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O recurso Shell Integration permite navegar entre os prompts do shell com ⇧⌘↑ e ⇧⌘↓."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функция «Интеграция с оболочкой» позволяет перемещаться между приглашениями оболочки с помощью ⇧⌘↑ и ⇧⌘↓."
           }
         }
       }
@@ -162816,6 +162984,12 @@
             "state" : "translated",
             "value" : "Shell Integration: navegação"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интеграция с оболочкой: навигация"
+          }
         }
       }
     },
@@ -162845,6 +163019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O recurso Shell Integration coloca uma seta azul ao lado do seu prompt do shell. Se você executar um comando que falha, ela fica vermelha. Clique nela com o botão direito para ver o tempo de execução e o status."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функция «Интеграция с оболочкой» отображает синюю стрелку рядом с приглашением оболочки. Если выполненная команда завершается ошибкой, стрелка становится красной. Щёлкните по ней правой кнопкой мыши, чтобы узнать время выполнения и статус."
           }
         }
       }
@@ -162876,6 +163056,12 @@
             "state" : "translated",
             "value" : "Shell Integration: status"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интеграция с оболочкой: статус"
+          }
         }
       }
     },
@@ -162905,6 +163091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Com a Shell Integration instalada, você pode selecionar a saída do último comando com ⇧⌘A."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если установлена «Интеграция с оболочкой», вы можете выделить вывод последней команды с помощью ⇧⌘A."
           }
         }
       }
@@ -162936,6 +163128,12 @@
             "state" : "translated",
             "value" : "Shell Integration: seleção"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интеграция с оболочкой: выделение"
+          }
         }
       }
     },
@@ -162965,6 +163163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O ícone no Dock mostra a contagem de campainhas tocadas e notificações publicadas desde a última vez que o app esteve ativo."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Значок в доке показывает количество поданных звуковых сигналов и полученных уведомлений с момента последней активности приложения."
           }
         }
       }
@@ -162996,6 +163200,12 @@
             "state" : "translated",
             "value" : "Campainhas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Звуковые сигналы"
+          }
         }
       }
     },
@@ -163025,6 +163235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você instalar a Shell Integration em uma máquina à qual se conecta por ssh, poderá clicar com o botão direito em um nome de arquivo (por exemplo, na saída do “ls”) e escolher “Transferir com scp” para transferir o arquivo."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вы установите «Интеграцию с оболочкой» на компьютере, к которому подключаетесь по ssh, вы можете щёлкнуть правой кнопкой мыши по имени файла (например, в выводе команды «ls») и выбрать «Скачать по scp», чтобы загрузить файл."
           }
         }
       }
@@ -163056,6 +163272,12 @@
             "state" : "translated",
             "value" : "Shell Integration: transferências"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интеграция с оболочкой: загрузки"
+          }
         }
       }
     },
@@ -163085,6 +163307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pressione ⌘/ para localizar seu cursor. É divertido!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите ⌘/, чтобы найти курсор. Это забавно!"
           }
         }
       }
@@ -163116,6 +163344,12 @@
             "state" : "translated",
             "value" : "Encontrar o cursor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Найти курсор"
+          }
         }
       }
     },
@@ -163145,6 +163379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode editar as expressões regulares da Seleção inteligente em “Ajustes > Perfis > Avançado > Seleção inteligente”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Регулярные выражения умного выделения можно редактировать в «Настройки > Профили > Дополнительные > Умное выделение»."
           }
         }
       }
@@ -163176,6 +163416,12 @@
             "state" : "translated",
             "value" : "Personalizar a seleção inteligente"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройка умного выделения"
+          }
         }
       }
     },
@@ -163205,6 +163451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Atribua uma ação a uma regra de Seleção inteligente em “Ajustes > Perfis > Avançado > Seleção inteligente > Editar ações”. Elas vão para o menu de contexto e substituem o Semantic History ao clicar com ⌘."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назначьте действие правилу умного выделения в «Настройки > Профили > Дополнительные > Умное выделение > Изменить действия». Они появляются в контекстном меню и переопределяют семантическую историю при щелчке с ⌘."
           }
         }
       }
@@ -163236,6 +163488,12 @@
             "state" : "translated",
             "value" : "Ações de seleção inteligente"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Действия умного выделения"
+          }
         }
       }
     },
@@ -163265,6 +163523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você quiser que a campainha visual pisque a tela inteira em vez de mostrar um ícone de campainha, pode ativar isso em “Ajustes > Avançado”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вы хотите, чтобы визуальный сигнал вспышкой заполнял весь экран вместо показа значка колокольчика, включите это в «Настройки > Дополнительные»."
           }
         }
       }
@@ -163296,6 +163560,12 @@
             "state" : "translated",
             "value" : "Campainha visual"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Визуальный сигнал"
+          }
         }
       }
     },
@@ -163325,6 +163595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Clique com o botão direito em uma aba para mudar sua cor, fechar as abas seguintes ou fechar todas as outras abas."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щёлкните правой кнопкой мыши по вкладке, чтобы изменить её цвет, закрыть вкладки после неё или закрыть все остальные вкладки."
           }
         }
       }
@@ -163356,6 +163632,12 @@
             "state" : "translated",
             "value" : "Menu da aba"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Меню вкладки"
+          }
         }
       }
     },
@@ -163385,6 +163667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode atribuir tags aos seus perfis e, ao clicar em “Tags>” em qualquer lugar onde veja uma lista de perfis, pode navegar por essas tags."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете назначать теги своим профилям, а щёлкнув «Теги>» в любом списке профилей, сможете просматривать эти теги."
           }
         }
       }
@@ -163416,6 +163704,12 @@
             "state" : "translated",
             "value" : "Tags"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Теги"
+          }
         }
       }
     },
@@ -163445,6 +163739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você colocar uma barra na tag de um perfil, isso define implicitamente uma hierarquia. Você pode vê-la no menu Perfis como submenus aninhados."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вставить в тег профиля косую черту, это неявно задаёт иерархию. Её можно увидеть в меню «Профили» в виде вложенных подменю."
           }
         }
       }
@@ -163476,6 +163776,12 @@
             "state" : "translated",
             "value" : "Hierarquia de tags"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Иерархия тегов"
+          }
         }
       }
     },
@@ -163505,6 +163811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O iTerm2 pode transferir arquivos codificando-os em base-64. Clique em “Saiba mais” para transferir um shell script que facilita isso."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2 может загружать файлы, кодируя их в base-64. Нажмите «Подробнее», чтобы загрузить сценарий оболочки, который упрощает этот процесс."
           }
         }
       }
@@ -163536,6 +163848,12 @@
             "state" : "translated",
             "value" : "Transferências"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загрузки"
+          }
         }
       }
     },
@@ -163565,6 +163883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você instalar a Shell Integration, ⇧⌘; ajuda a completar comandos. Ela lembra os comandos que você executou em cada host que tem a Shell Integration instalada. Ela sabe com que frequência e há quanto tempo o comando foi executado para ajudar a fazer as melhores sugestões."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вы установите «Интеграцию с оболочкой», сочетание ⇧⌘; поможет вам дополнять команды. iTerm2 запоминает команды, которые вы выполняли на каждом хосте с установленной интеграцией с оболочкой. Он знает, как часто и как недавно выполнялась команда, чтобы предлагать наилучшие варианты."
           }
         }
       }
@@ -163596,6 +163920,12 @@
             "state" : "translated",
             "value" : "Conclusão de comandos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автодополнение команд"
+          }
         }
       }
     },
@@ -163625,6 +163955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O iTerm2 lembra quais diretórios você mais usa em cada host que tem a Shell Integration instalada. Há uma ferramenta na Caixa de ferramentas para navegar por eles, e ⌥⌘/ abre um pop-up ordenado por frequência e recência de uso."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2 запоминает, какие каталоги вы чаще всего используете на каждом хосте с установленной интеграцией с оболочкой. Для их просмотра есть инструмент на панели инструментов, а ⌥⌘/ открывает всплывающее окно, отсортированное по частоте и давности использования."
           }
         }
       }
@@ -163656,6 +163992,12 @@
             "state" : "translated",
             "value" : "Diretórios recentes"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Недавние каталоги"
+          }
         }
       }
     },
@@ -163685,6 +164027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você tem a Shell Integration instalada, pode marcar um diretório com uma estrela para mantê-lo sempre na parte inferior da ferramenta Diretórios recentes na Caixa de ferramentas. Clique com o botão direito e escolha “Alternar estrela”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если у вас установлена интеграция с оболочкой, вы можете «пометить звёздочкой» каталог, чтобы он всегда оставался внизу инструмента «Недавние каталоги» на панели инструментов. Щёлкните правой кнопкой мыши и выберите «Переключить звёздочку»."
           }
         }
       }
@@ -163716,6 +164064,12 @@
             "state" : "translated",
             "value" : "Diretórios favoritos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Избранные каталоги"
+          }
         }
       }
     },
@@ -163745,6 +164099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instale a Shell Integration e ative “Ajustes > Geral > Salvar histórico de cópia/colagem e de comandos no disco” para lembrar o histórico de comandos por host entre reinicializações do iTerm2."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Установите интеграцию с оболочкой и включите «Настройки > Общие > Сохранять историю копирования/вставки и команд на диск», чтобы запоминать историю команд для каждого хоста между перезапусками iTerm2."
           }
         }
       }
@@ -163776,6 +164136,12 @@
             "state" : "translated",
             "value" : "Histórico do Shell Integration"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "История интеграции с оболочкой"
+          }
         }
       }
     },
@@ -163805,6 +164171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Copie um arquivo para a área de transferência no Finder e use “Editar > Colar especial > Colar arquivo codificado em Base64” para enviar arquivos binários com facilidade. Use “base64 -D” (ou -d no Linux) no host remoto para decodificá-lo."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скопируйте файл в буфер обмена в Finder, а затем используйте «Правка > Специальная вставка > Вставить файл в кодировке Base64» для удобной загрузки бинарных файлов. Используйте «base64 -D» (или -d в Linux) на удалённом хосте, чтобы декодировать его."
           }
         }
       }
@@ -163836,6 +164208,12 @@
             "state" : "translated",
             "value" : "Colar arquivo como Base64"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вставка файла в формате Base64"
+          }
         }
       }
     },
@@ -163865,6 +164243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode dividir uma aba em vários painéis com ⌘D e ⇧⌘D."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете разделить вкладку на несколько панелей с помощью ⌘D и ⇧⌘D."
           }
         }
       }
@@ -163896,6 +164280,12 @@
             "state" : "translated",
             "value" : "Dividir painéis"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разделение на панели"
+          }
         }
       }
     },
@@ -163925,6 +164315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Redimensione painéis divididos pelo teclado usando ^⌘ e uma tecla de seta."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Изменяйте размер разделённых панелей с клавиатуры с помощью ^⌘-стрелка."
           }
         }
       }
@@ -163956,6 +164352,12 @@
             "state" : "translated",
             "value" : "Ajustar painéis divididos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройка разделённых панелей"
+          }
         }
       }
     },
@@ -163985,6 +164387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantenha ⌥ pressionado e clique para mover o cursor. Funciona melhor com o Shell Integration instalado (para evitar o envio das teclas de seta para cima/baixo ao shell)."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте ⌥ и щёлкайте, чтобы переместить курсор. Лучше всего это работает при установленной интеграции с оболочкой (чтобы избежать отправки клавиш со стрелками вверх/вниз в оболочку)."
           }
         }
       }
@@ -164016,6 +164424,12 @@
             "state" : "translated",
             "value" : "Mover cursor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перемещение курсора"
+          }
         }
       }
     },
@@ -164045,6 +164459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode configurar seu perfil para criar janelas fixadas em uma das bordas da tela em “Ajustes > Perfis > Janela”. Você pode redimensioná-las arrastando as bordas."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете настроить профиль так, чтобы он создавал окна, прикреплённые к одному из краёв экрана, в «Настройки > Профили > Окно». Их можно изменять в размере, перетаскивая края."
           }
         }
       }
@@ -164076,6 +164496,12 @@
             "state" : "translated",
             "value" : "Janelas nas bordas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Окна у края экрана"
+          }
         }
       }
     },
@@ -164105,6 +164531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode atribuir cores às abas em “Ajustes > Perfis > Cores” ou no menu Visualizar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете назначать цвета вкладкам в «Настройки > Профили > Цвета» или в меню «Вид»."
           }
         }
       }
@@ -164136,6 +164568,12 @@
             "state" : "translated",
             "value" : "Cor da aba"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цвет вкладки"
+          }
         }
       }
     },
@@ -164165,6 +164603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantenha ⌥⌘ pressionado ao arrastar para fazer uma seleção retangular."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте ⌥⌘ при перетаскивании, чтобы сделать прямоугольное выделение."
           }
         }
       }
@@ -164196,6 +164640,12 @@
             "state" : "translated",
             "value" : "Seleção retangular"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прямоугольное выделение"
+          }
         }
       }
     },
@@ -164225,6 +164675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantenha ⌘ pressionado ao arrastar para fazer várias seleções descontínuas."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте ⌘ при перетаскивании, чтобы сделать несколько несвязанных выделений."
           }
         }
       }
@@ -164256,6 +164712,12 @@
             "state" : "translated",
             "value" : "Seleção múltipla"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Множественное выделение"
+          }
         }
       }
     },
@@ -164285,6 +164747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantenha ⇧⌥⌘ pressionado e arraste uma sessão para outra sessão para criar ou alterar painéis divididos."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте ⇧⌥⌘ и перетащите одну сессию в другую, чтобы создать или изменить разделённые панели."
           }
         }
       }
@@ -164316,6 +164784,12 @@
             "state" : "translated",
             "value" : "Arrastar painéis"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перетаскивание панелей"
+          }
         }
       }
     },
@@ -164345,6 +164819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajuste o Realce do cursor em “Ajustes > Perfis > Cores” para deixar todas as cores mais suaves, exceto o cursor. Use um cursor branco brilhante e ele se destaca!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройте «Усиление курсора» в «Настройки > Профили > Цвета», чтобы сделать все цвета более приглушёнными, кроме курсора. Используйте ярко-белый курсор, и он будет выделяться!"
           }
         }
       }
@@ -164376,6 +164856,12 @@
             "state" : "translated",
             "value" : "Realce do cursor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усиление курсора"
+          }
         }
       }
     },
@@ -164405,6 +164891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajuste “Contraste mínimo” em “Ajustes > Perfis > Cores” para garantir que o texto seja sempre legível, independentemente da combinação de cores de texto e fundo."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройте «Минимальный контраст» в «Настройки > Профили > Цвета», чтобы текст всегда оставался читаемым независимо от сочетания цветов текста и фона."
           }
         }
       }
@@ -164436,6 +164928,12 @@
             "state" : "translated",
             "value" : "Contraste mínimo"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Минимальный контраст"
+          }
         }
       }
     },
@@ -164465,6 +164963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Normalmente, novas abas aparecem no fim da barra de abas. Há um ajuste em “Ajustes > Avançado” para colocá-las ao lado da aba atual."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обычно новые вкладки появляются в конце панели вкладок. В «Настройки > Дополнительные» есть параметр, позволяющий размещать их рядом с текущей вкладкой."
           }
         }
       }
@@ -164496,6 +165000,12 @@
             "state" : "translated",
             "value" : "Abas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вкладки"
+          }
         }
       }
     },
@@ -164525,6 +165035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Clique com o botão direito em um número e o menu de contexto o mostrará convertido para hexadecimal ou decimal, conforme apropriado."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щёлкните правой кнопкой мыши по числу, и контекстное меню покажет его перевод в шестнадцатеричную или десятичную систему в зависимости от ситуации."
           }
         }
       }
@@ -164556,6 +165072,12 @@
             "state" : "translated",
             "value" : "Conversão de base"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Преобразование систем счисления"
+          }
         }
       }
     },
@@ -164585,6 +165107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Em “Ajustes > Teclas” você pode atribuir um atalho de teclado a uma busca por expressão regular com a ação “Buscar expressão regular…”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В «Настройки > Клавиши» можно назначить сочетание клавиш для поиска по регулярному выражению с помощью действия «Найти регулярное выражение…»."
           }
         }
       }
@@ -164616,6 +165144,12 @@
             "state" : "translated",
             "value" : "Buscas salvas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохранённые поиски"
+          }
         }
       }
     },
@@ -164645,6 +165179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Busque URLs usando “Editar > Buscar > Buscar URLs”. Navegue pelos resultados da busca com ⌘G e ⇧⌘G. Abra a seleção atual com ⌥⌘O."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ищите URL-адреса с помощью «Правка > Найти > Найти URL-адреса». Переходите между результатами поиска с помощью ⌘G и ⇧⌘G. Открывайте текущее выделение с помощью ⌥⌘O."
           }
         }
       }
@@ -164676,6 +165216,12 @@
             "state" : "translated",
             "value" : "Buscar URLs"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск URL-адресов"
+          }
         }
       }
     },
@@ -164705,6 +165251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A caixa de seleção “instantâneo” em um gatilho permite que ele seja acionado enquanto o cursor está na mesma linha do texto que corresponde à sua expressão regular."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Флажок «мгновенно» в триггере позволяет ему срабатывать, пока курсор находится на той же строке, что и текст, соответствующий регулярному выражению."
           }
         }
       }
@@ -164736,6 +165288,12 @@
             "state" : "translated",
             "value" : "Gatilhos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Триггеры"
+          }
         }
       }
     },
@@ -164765,6 +165323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ative “Editar > A seleção respeita limites flexíveis” para reconhecer divisórias de painéis em programas como vi, emacs e tmux, permitindo selecionar várias linhas de texto."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включите «Правка > Выделение учитывает мягкие границы», чтобы распознавать разделители панелей в таких программах, как vi, emacs и tmux, и выделять несколько строк текста."
           }
         }
       }
@@ -164796,6 +165360,12 @@
             "state" : "translated",
             "value" : "Limites flexíveis"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мягкие границы"
+          }
         }
       }
     },
@@ -164825,6 +165395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Clique uma vez onde deseja iniciar uma seleção e ⇧-clique onde deseja terminá-la para selecionar texto sem arrastar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щёлкните один раз там, где нужно начать выделение, а затем ⇧-щёлкните там, где оно должно закончиться, чтобы выделить текст без перетаскивания."
           }
         }
       }
@@ -164856,6 +165432,12 @@
             "state" : "translated",
             "value" : "Selecionar sem arrastar"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выделение без перетаскивания"
+          }
         }
       }
     },
@@ -164885,6 +165467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantenha ^ pressionado ao redimensionar uma janela e ela não se ajustará à grade de caracteres: você pode deixá-la com qualquer tamanho."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте ^ при изменении размера окна, и оно не будет привязываться к сетке символов: вы сможете сделать его любого размера."
           }
         }
       }
@@ -164916,6 +165504,12 @@
             "state" : "translated",
             "value" : "Redimensionamento suave de janelas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Плавное изменение размера окна"
+          }
         }
       }
     },
@@ -164945,6 +165539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você colar texto com tabulações, será perguntado se deseja convertê-las em espaços. Isso é útil no prompt do shell para evitar acionar o preenchimento automático de nomes de arquivo."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вы вставляете текст, содержащий табуляции, вас спросят, хотите ли вы преобразовать их в пробелы. Это удобно в приглашении оболочки, чтобы не запускать автодополнение имён файлов."
           }
         }
       }
@@ -164976,6 +165576,12 @@
             "state" : "translated",
             "value" : "Colar tabulações"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вставка табуляций"
+          }
         }
       }
     },
@@ -165005,6 +165611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você sabia? Se a campainha tocar com muita frequência, será perguntado se você deseja silenciá-la temporariamente. O iTerm2 se importa com o seu conforto."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "А вы знали? Если звуковой сигнал звучит слишком часто, вам предложат временно его отключить. iTerm2 заботится о вашем комфорте."
           }
         }
       }
@@ -165036,6 +165648,12 @@
             "state" : "translated",
             "value" : "Silenciamento da campainha"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отключение сигнала"
+          }
         }
       }
     },
@@ -165065,6 +165683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toda lista de perfis tem um campo de busca (por exemplo, em “Ajustes > Perfis”). Você pode usar vários operadores para restringir sua consulta de busca. Clique em “Saiba mais” para todos os detalhes."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В каждом списке профилей есть поле поиска (например, в «Настройки > Профили»). Вы можете использовать различные операторы, чтобы уточнить поисковый запрос. Нажмите «Подробнее», чтобы узнать все детали."
           }
         }
       }
@@ -165096,6 +165720,12 @@
             "state" : "translated",
             "value" : "Busca de perfis"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск по профилям"
+          }
         }
       }
     },
@@ -165125,6 +165755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A galeria de cores on-line oferece mais de cem belos esquemas de cores que você pode transferir."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В онлайн-галерее цветов представлено более ста прекрасных цветовых схем, которые можно загрузить."
           }
         }
       }
@@ -165156,6 +165792,12 @@
             "state" : "translated",
             "value" : "Esquemas de cores"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цветовые схемы"
+          }
         }
       }
     },
@@ -165185,6 +165827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode ter uma fonte separada para texto ASCII e não ASCII. Ative isso em “Ajustes > Perfis > Texto”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете использовать отдельные шрифты для ASCII и не-ASCII текста. Включите это в «Настройки > Профили > Текст»."
           }
         }
       }
@@ -165216,6 +165864,12 @@
             "state" : "translated",
             "value" : "Fontes ASCII/não ASCII"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шрифты ASCII/не-ASCII"
+          }
         }
       }
     },
@@ -165245,6 +165899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um coprocesso é uma tarefa, como um shell script, que tem uma relação especial com uma sessão específica do iTerm2. Toda a saída em uma janela de terminal (ou seja, o que você vê na tela) também é entrada para o coprocesso. Toda a saída do coprocesso age como texto que o usuário está digitando no teclado."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сопроцесс представляет собой задачу, например сценарий оболочки, имеющую особую связь с конкретной сессией iTerm2. Весь вывод в окне терминала (то есть то, что вы видите на экране) также подаётся на вход сопроцессу. А весь вывод сопроцесса ведёт себя как текст, который пользователь набирает на клавиатуре."
           }
         }
       }
@@ -165276,6 +165936,12 @@
             "state" : "translated",
             "value" : "Coprocessos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сопроцессы"
+          }
         }
       }
     },
@@ -165305,6 +165971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode personalizar a Touch Bar selecionando “Visualizar > Personalizar Touch Bar”. Você pode adicionar uma barra de abas para o modo de tela cheia, um botão de status personalizável pelo usuário e até definir seus próprios botões da Touch Bar em Ajustes > Teclas. Há também uma nova ferramenta de Shell Integration para personalizar os rótulos das teclas de função da Touch Bar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете настроить Touch Bar, выбрав «Вид > Настроить Touch Bar». Можно добавить панель вкладок для полноэкранного режима, настраиваемую пользователем кнопку статуса, а также определить собственные кнопки Touch Bar в «Настройки > Клавиши». Также есть новый инструмент интеграции с оболочкой для настройки подписей функциональных клавиш Touch Bar."
           }
         }
       }
@@ -165336,6 +166008,12 @@
             "state" : "translated",
             "value" : "Personalização da Touch Bar"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройка Touch Bar"
+          }
         }
       }
     },
@@ -165365,6 +166043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você usa uma fonte que suporta ligaduras, pode ativar o suporte a ligaduras em Ajustes > Perfis > Texto."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вы используете шрифт с поддержкой лигатур, вы можете включить их поддержку в «Настройки > Профили > Текст»."
           }
         }
       }
@@ -165396,6 +166080,12 @@
             "state" : "translated",
             "value" : "Ligaduras"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лигатуры"
+          }
         }
       }
     },
@@ -165425,6 +166115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Novidade na 3.1: você pode configurar sua janela de atalho para aparecer sobre as janelas de tela cheia de outros apps. Ative “Janela flutuante” em “Ajustes > Perfis > Teclas > Personalizar janela de atalho”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новое в 3.1: вы можете настроить окно горячих клавиш так, чтобы оно появлялось поверх полноэкранных окон других приложений. Включите «Плавающее окно» в «Настройки > Профили > Клавиши > Настроить окно горячих клавиш»."
           }
         }
       }
@@ -165456,6 +166152,12 @@
             "state" : "translated",
             "value" : "Janela de atalho flutuante"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Плавающее окно горячих клавиш"
+          }
         }
       }
     },
@@ -165485,6 +166187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Novidade na 3.1: você pode ter várias janelas de atalho. Cada perfil pode ter uma ou mais teclas de atalho."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новое в 3.1: у вас может быть несколько окон горячих клавиш. У каждого профиля может быть одна или несколько горячих клавиш."
           }
         }
       }
@@ -165516,6 +166224,12 @@
             "state" : "translated",
             "value" : "Várias janelas de atalho"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Несколько окон горячих клавиш"
+          }
         }
       }
     },
@@ -165545,6 +166259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Novidade na 3.1: você pode configurar uma janela de atalho para abrir ao tocar duas vezes em um modificador em “Ajustes > Perfis > Teclas > Personalizar janela de atalho”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новое в 3.1: вы можете настроить открытие окна горячих клавиш двойным нажатием модификатора в «Настройки > Профили > Клавиши > Настроить окно горячих клавиш»."
           }
         }
       }
@@ -165576,6 +166296,12 @@
             "state" : "translated",
             "value" : "Atalho de toque duplo"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Горячая клавиша по двойному нажатию"
+          }
         }
       }
     },
@@ -165605,6 +166331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode “enterrar” uma sessão com “Sessão > Enterrar sessão”. Ela permanece oculta até você restaurá-la selecionando-a em “Sessão > Sessões enterradas > Sua sessão”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете «скрыть» сессию с помощью «Сессия > Скрыть сессию». Она останется скрытой, пока вы не восстановите её, выбрав в «Сессия > Скрытые сессии > Ваша сессия»."
           }
         }
       }
@@ -165636,6 +166368,12 @@
             "state" : "translated",
             "value" : "Sessões enterradas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скрытые сессии"
+          }
         }
       }
     },
@@ -165665,6 +166403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode adicionar comportamentos personalizados ao iTerm2 usando a API Python."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете добавить пользовательское поведение в iTerm2 с помощью Python API."
           }
         }
       }
@@ -165696,6 +166440,12 @@
             "state" : "translated",
             "value" : "API Python"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Python API"
+          }
         }
       }
     },
@@ -165725,6 +166475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode adicionar uma barra de status configurável às suas janelas de terminal."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете добавить настраиваемую строку состояния в окна терминала."
           }
         }
       }
@@ -165756,6 +166512,12 @@
             "state" : "translated",
             "value" : "Barra de status"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Строка состояния"
+          }
         }
       }
     },
@@ -165785,6 +166547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Experimente os temas “Minimalista” e “Compacto” para reduzir a poluição visual. Você pode defini-los em “Ajustes > Aparência > Geral”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Попробуйте темы «Минимальная» и «Компактная», чтобы уменьшить визуальный беспорядок. Настроить это можно в «Настройки > Внешний вид > Общие»."
           }
         }
       }
@@ -165816,6 +166584,12 @@
             "state" : "translated",
             "value" : "Tema minimalista"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Минимальная тема"
+          }
         }
       }
     },
@@ -165845,6 +166619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode configurar quais elementos aparecem nos títulos de sessão em “Ajustes > Perfis > Geral > Título”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете настроить, какие элементы отображаются в заголовках сессий, в «Настройки > Профили > Общие > Заголовок»."
           }
         }
       }
@@ -165876,6 +166656,12 @@
             "state" : "translated",
             "value" : "Títulos de sessão"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Заголовки сессий"
+          }
         }
       }
     },
@@ -165905,6 +166691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "As abas podem exibir um ícone indicando o aplicativo atual. Configure isso em “Ajustes > Perfis > Geral > Ícone”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вкладки могут отображать значок, показывающий текущее приложение. Настройте это в «Настройки > Профили > Общие > Значок»."
           }
         }
       }
@@ -165936,6 +166728,12 @@
             "state" : "translated",
             "value" : "Ícones de aba"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Значки вкладок"
+          }
         }
       }
     },
@@ -165965,6 +166763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantenha ⌥ pressionado ao arrastar uma aba para mover a janela. Isso é útil nos temas Compacto e Minimalista, que têm uma área muito pequena para arrastar a janela."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте ⌥ при перетаскивании вкладки, чтобы переместить окно. Это удобно в темах «Компактная» и «Минимальная», где для перетаскивания окна отведена очень маленькая область."
           }
         }
       }
@@ -165996,6 +166800,12 @@
             "state" : "translated",
             "value" : "Arrastar janela pela aba"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перетаскивание окна за вкладку"
+          }
         }
       }
     },
@@ -166025,6 +166835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pressione ⇧⌘. para abrir o Compositor. Ele oferece um rascunho para editar um comando antes de enviá-lo ao shell."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите ⇧⌘., чтобы открыть Композер. Он предоставляет черновик для редактирования команды перед отправкой её в оболочку."
           }
         }
       }
@@ -166056,6 +166872,12 @@
             "state" : "translated",
             "value" : "Compositor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Композер"
+          }
         }
       }
     },
@@ -166085,6 +166907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você instalar o Shell Integration em uma máquina à qual se conecta via ssh, poderá arrastar e soltar do Finder para o host remoto mantendo ⌥ pressionado ao arrastar. O diretório de destino é determinado por onde você solta o arquivo na janela do terminal: execute cd foo, solte o arquivo abaixo do comando cd, e o arquivo irá para o diretório foo."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вы установите интеграцию с оболочкой на компьютере, к которому подключаетесь по ssh, вы сможете перетаскивать файлы из Finder на удалённый хост, удерживая ⌥ во время перетаскивания. Каталог назначения определяется тем, куда вы поместите файл в окне терминала: выполните cd foo, затем перетащите файл ниже команды cd, и файл попадёт в каталог foo."
           }
         }
       }
@@ -166116,6 +166944,12 @@
             "state" : "translated",
             "value" : "Shell Integration: envios"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интеграция с оболочкой: загрузка на сервер"
+          }
         }
       }
     },
@@ -166145,6 +166979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O Compositor suporta múltiplos cursores. Ele também é capaz de enviar apenas um comando de uma lista, facilitando percorrer uma lista de comandos um a um. Clique no botão de ajuda no Compositor para mais detalhes."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Композер поддерживает несколько курсоров. Он также умеет отправлять только одну команду из списка, что упрощает пошаговое выполнение списка команд. Нажмите кнопку справки в Композере, чтобы узнать подробности."
           }
         }
       }
@@ -166176,6 +167016,12 @@
             "state" : "translated",
             "value" : "Recursos avançados do Compositor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Расширенные возможности Композера"
+          }
         }
       }
     },
@@ -166205,6 +167051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Transforme o texto selecionado em uma visualização formatada e com destaque de sintaxe usando o comando “Renderizar seleção”, ideal para JSON, Markdown ou código-fonte. Esse recurso inclui rolagem horizontal para facilitar a navegação em logs."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Преобразуйте выделенный текст в красиво оформленный вид с подсветкой синтаксиса с помощью команды «Отобразить выделение», которая отлично подходит для JSON, Markdown или исходного кода. Эта функция поддерживает горизонтальную прокрутку для удобной навигации по журналам."
           }
         }
       }
@@ -166236,6 +167088,12 @@
             "state" : "translated",
             "value" : "Renderizar seleção"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отображение выделения"
+          }
         }
       }
     },
@@ -166265,6 +167123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exporte variáveis de ambiente e copie arquivos para hosts remotos de forma integrada com o SSH Integration. Configure um perfil para usar ssh ou use it2ssh no lugar de ssh."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Экспортируйте переменные окружения и копируйте файлы на удалённые хосты без лишних усилий с помощью интеграции с SSH. Настройте профиль на использование ssh или используйте it2ssh вместо ssh."
           }
         }
       }
@@ -166296,6 +167160,12 @@
             "state" : "translated",
             "value" : "SSH Integration"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интеграция с SSH"
+          }
         }
       }
     },
@@ -166325,6 +167195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aprimore sua linha de comando com o “auto compositor”, que substitui a linha de comando por um controle nativo para facilitar o uso. Requer o Shell Integration."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Улучшите работу с командной строкой с помощью «автокомпозера», который заменяет командную строку нативным элементом управления для удобства использования. Требует интеграции с оболочкой."
           }
         }
       }
@@ -166356,6 +167232,12 @@
             "state" : "translated",
             "value" : "Auto Compositor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автокомпозер"
+          }
         }
       }
     },
@@ -166385,6 +167267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gere comandos usando IA digitando um prompt no compositor e selecionando “Edit > Engage Artificial Intelligence”. Uma chave de API da OpenAI é necessária para essa funcionalidade."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создавайте команды с помощью ИИ, введя запрос в Композере и выбрав «Правка > Задействовать искусственный интеллект». Для этой функции требуется ключ API OpenAI."
           }
         }
       }
@@ -166416,6 +167304,12 @@
             "state" : "translated",
             "value" : "Escrita de comandos com IA"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Написание команд с помощью ИИ"
+          }
         }
       }
     },
@@ -166445,6 +167339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Defina e alcance metas no terminal com o “Concierge de código”, um recurso da Caixa de ferramentas que orienta você passo a passo com base na sua atividade no terminal. Uma chave de API da OpenAI é necessária para esse recurso."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ставьте и достигайте целей в терминале с помощью «Codecierge», инструмента панели инструментов, который пошагово направляет вас на основе вашей активности в терминале. Для этой функции необходим ключ API OpenAI."
           }
         }
       }
@@ -166476,6 +167376,12 @@
             "state" : "translated",
             "value" : "Ferramenta Concierge de código"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Инструмент Codecierge"
+          }
         }
       }
     },
@@ -166505,6 +167411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Navegue pelo seu histórico de comandos sem esforço com as “marcas nomeadas”, atribuindo nomes a linhas no terminal."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Легко перемещайтесь по истории команд с помощью «именованных меток», присваивая имена строкам в терминале."
           }
         }
       }
@@ -166536,6 +167448,12 @@
             "state" : "translated",
             "value" : "Marcas nomeadas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Именованные метки"
+          }
         }
       }
     },
@@ -166565,6 +167483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você pode atribuir fontes específicas a intervalos Unicode. Use 'Settings > Profiles > Text > Manage Special Exceptions' para gerenciá-los e para instalar um enorme conjunto de símbolos Powerline."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы можете назначать определённые шрифты диапазонам Unicode. Используйте «Настройки > Профили > Текст > Управление особыми исключениями», чтобы настроить это и установить обширный набор символов Powerline."
           }
         }
       }
@@ -166596,6 +167520,12 @@
             "state" : "translated",
             "value" : "Atribuições de fontes"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назначение шрифтов"
+          }
         }
       }
     },
@@ -166625,6 +167555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantenha a nitidez na janela ativa enquanto aproveita a transparência nas janelas de fundo usando 'View > Disable transparency in key window'."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохраняйте чёткость активного окна, наслаждаясь прозрачностью фоновых окон, с помощью «Вид > Отключить прозрачность в активном окне»."
           }
         }
       }
@@ -166656,6 +167592,12 @@
             "state" : "translated",
             "value" : "Desativar transparência"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отключение прозрачности"
+          }
         }
       }
     },
@@ -166685,6 +167627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Crie atalhos de duas teclas com um “líder”: uma tecla especial que precede um atalho de teclado personalizado."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создавайте двухклавишные сочетания с помощью «лидера»: специальной клавиши, которая предшествует пользовательской привязке клавиш."
           }
         }
       }
@@ -166716,6 +167664,12 @@
             "state" : "translated",
             "value" : "Atalho de líder"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сочетание с лидером"
+          }
         }
       }
     },
@@ -166745,6 +167699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Execute uma série de ações em ordem com um único atalho usando atalhos de teclado de “sequência”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выполняйте серию действий по порядку одним сочетанием клавиш с помощью «последовательных» привязок клавиш."
           }
         }
       }
@@ -166776,6 +167736,12 @@
             "state" : "translated",
             "value" : "Atalho de sequência"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Последовательная привязка"
+          }
         }
       }
     },
@@ -166805,6 +167771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Faça backup ou transfira facilmente seus ajustes do iTerm2 usando o recurso Exportar/Importar em “Settings > General > Settings”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Легко создавайте резервную копию или переносите настройки iTerm2 с помощью функции экспорта/импорта в «Настройки > Общие > Настройки»."
           }
         }
       }
@@ -166836,6 +167808,12 @@
             "state" : "translated",
             "value" : "Exportar/importar ajustes"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Экспорт/импорт настроек"
+          }
         }
       }
     },
@@ -166865,6 +167843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aplique atalhos de teclado de maneira uniforme em várias sessões para um controle consistente em diferentes abas ou janelas."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Применяйте привязки клавиш единообразно к нескольким сессиям для согласованного управления в разных вкладках или окнах."
           }
         }
       }
@@ -166896,6 +167880,12 @@
             "state" : "translated",
             "value" : "Atalhos multissessão"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привязки для нескольких сессий"
+          }
         }
       }
     },
@@ -166925,6 +167915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Simule a entrada no terminal como se fosse a saída de um app em execução com o gatilho “Inject”."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Имитируйте ввод в терминал, как будто это вывод работающего приложения, с помощью триггера «Inject»."
           }
         }
       }
@@ -166956,6 +167952,12 @@
             "state" : "translated",
             "value" : "Gatilho Inject"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Триггер «Inject»"
+          }
         }
       }
     },
@@ -166985,6 +167987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gerencie facilmente seus gatilhos usando o novo componente da barra de status Gatilhos."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Легко управляйте своими триггерами с помощью нового компонента строки состояния «Триггеры»."
           }
         }
       }
@@ -167016,6 +168024,12 @@
             "state" : "translated",
             "value" : "Barra de status de gatilhos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Строка состояния триггеров"
+          }
         }
       }
     },
@@ -167045,6 +168059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exiba o tamanho da sessão diretamente nos títulos das abas para uma informação prática à primeira vista."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отображайте размер сессии прямо в заголовках вкладок для удобной информации на первый взгляд."
           }
         }
       }
@@ -167076,6 +168096,12 @@
             "state" : "translated",
             "value" : "Tamanho da sessão na aba"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Размер сессии во вкладке"
+          }
         }
       }
     },
@@ -167105,6 +168131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Edite fragmentos no Advanced Paste mantendo pressionada a tecla ⌥, ou abra-os no compositor com ⇧."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редактируйте сниппеты в расширенной вставке, удерживая клавишу ⌥, или открывайте их в Композере с помощью ⇧."
           }
         }
       }
@@ -167136,6 +168168,12 @@
             "state" : "translated",
             "value" : "Edição avançada de fragmentos"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Расширенное редактирование сниппетов"
+          }
         }
       }
     },
@@ -167165,6 +168203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Salve os logs do seu terminal em formato HTML para melhor legibilidade e recursos de compartilhamento."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохраняйте журналы терминала в формате HTML для лучшей читаемости и удобства обмена."
           }
         }
       }
@@ -167196,6 +168240,12 @@
             "state" : "translated",
             "value" : "Logs em HTML"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Журналы HTML"
+          }
         }
       }
     },
@@ -167225,6 +168275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Crie e reproduza gravações do terminal com logs ASCIICast, compatíveis com o asciinema."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создавайте и воспроизводите записи терминала в формате ASCIICast, совместимом с asciinema."
           }
         }
       }
@@ -167256,6 +168312,12 @@
             "state" : "translated",
             "value" : "Logs ASCIICast"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Журналы ASCIICast"
+          }
         }
       }
     },
@@ -167285,6 +168347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inclua marcações de tempo nos seus logs para melhor rastreamento e correlação de eventos."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавляйте отметки времени в журналы для лучшего отслеживания и сопоставления событий."
           }
         }
       }
@@ -167316,6 +168384,12 @@
             "state" : "translated",
             "value" : "Logs com marcação de tempo"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Журналы с отметками времени"
+          }
         }
       }
     },
@@ -167345,6 +168419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utilize o LastPass ou o 1Password com o cofre de senhas configurando-o no menu ao lado do campo de busca."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Используйте LastPass или 1Password вместе с менеджером паролей, настроив это в меню рядом с полем поиска."
           }
         }
       }
@@ -167376,6 +168456,12 @@
             "state" : "translated",
             "value" : "LastPass e 1Password"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LastPass и 1Password"
+          }
         }
       }
     },
@@ -167405,6 +168491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acesse seu cofre de senhas sem autenticação ajustando os ajustes pelo menu ao lado do seu campo de busca."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открывайте доступ к менеджеру паролей без аутентификации, изменив настройки в меню рядом с его полем поиска."
           }
         }
       }
@@ -167436,6 +168528,12 @@
             "state" : "translated",
             "value" : "Acesso ao cofre de senhas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доступ к менеджеру паролей"
+          }
         }
       }
     },
@@ -167465,6 +168563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gere senhas fortes e seguras usando o novo recurso de geração de senhas do cofre de senhas."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создавайте надёжные пароли с помощью новой функции генерации паролей в менеджере паролей."
           }
         }
       }
@@ -167496,6 +168600,12 @@
             "state" : "translated",
             "value" : "Geração de senhas"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Генерация паролей"
+          }
         }
       }
     },
@@ -167525,6 +168635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acesse as dicas do dia com o utilitário it2tip, um app de linha de comando. Ative-o instalando o Shell Integration e os utilitários."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Получайте доступ к советам дня с помощью утилиты командной строки it2tip. Включите её, установив интеграцию с оболочкой и утилиты."
           }
         }
       }
@@ -167556,6 +168672,12 @@
             "state" : "translated",
             "value" : "Utilitário it2tip"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Утилита it2tip"
+          }
         }
       }
     },
@@ -167585,6 +168707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tenha o Shell Integration automático ao criar um login shell, eliminando a necessidade de configuração explícita no seu Mac."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Получите автоматическую интеграцию с оболочкой при создании login shell без необходимости явной настройки на вашем Mac."
           }
         }
       }
@@ -167616,6 +168744,12 @@
             "state" : "translated",
             "value" : "Shell Integration automático"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автоматическая интеграция с оболочкой"
+          }
         }
       }
     },
@@ -167645,6 +168779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Obtenha informações detalhadas sobre comandos com ⌘-clique no prompt de comando."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Получайте подробную информацию о командах, щёлкая с ⌘ по приглашению оболочки."
           }
         }
       }
@@ -167676,6 +168816,12 @@
             "state" : "translated",
             "value" : "Informações do prompt de comando"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Информация о приглашении оболочки"
+          }
         }
       }
     },
@@ -167705,6 +168851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Use o tmux integration para atalhos de teclado automáticos que emulam os atalhos do tmux, configuráveis pelos ajustes de Líder."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Используйте интеграцию с tmux для автоматических привязок клавиш, эмулирующих сочетания клавиш tmux, настраиваемых через параметры лидера."
           }
         }
       }
@@ -167736,6 +168888,12 @@
             "state" : "translated",
             "value" : "tmux integration"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интеграция с tmux"
+          }
         }
       }
     },
@@ -167765,6 +168923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sincronize o buffer de colagem do tmux com a área de transferência local para uma integração perfeita (requer tmux 3.4)."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Синхронизируйте буфер вставки tmux с локальным буфером обмена для полной интеграции (требуется tmux 3.4)."
           }
         }
       }
@@ -167796,6 +168960,12 @@
             "state" : "translated",
             "value" : "Espelhamento da área de transferência do tmux"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зеркалирование буфера обмена tmux"
+          }
         }
       }
     },
@@ -167825,6 +168995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aprimore sua edição no Compositor com múltiplos cursores, criados usando ^⇧-cima/baixo ou ⌥-arrastar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Улучшите редактирование в Композере с помощью нескольких курсоров, создаваемых с помощью ^⇧-вверх/вниз или ⌥-перетаскивания."
           }
         }
       }
@@ -167856,6 +169032,12 @@
             "state" : "translated",
             "value" : "Múltiplos cursores no Compositor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Несколько курсоров в Композере"
+          }
         }
       }
     },
@@ -167885,6 +169067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mova conteúdo do Compositor para a janela do Advanced Paste com ⌥⌘V para opções de edição adicionais."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перемещайте содержимое из Композера в окно расширенной вставки с помощью ⌥⌘V для дополнительных параметров редактирования."
           }
         }
       }
@@ -167916,6 +169104,12 @@
             "state" : "translated",
             "value" : "Advanced Paste a partir do Compositor"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Расширенная вставка из Композера"
+          }
         }
       }
     },
@@ -167945,6 +169139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Busque dentro do Compositor usando ⌘F para encontrar rapidamente um texto específico."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ищите в Композере с помощью ⌘F, чтобы быстро найти нужный текст."
           }
         }
       }
@@ -175806,6 +177006,12 @@
             "value" : "command /%@/"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンド /%@/"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -175840,6 +177046,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Content: "
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内容: "
           }
         },
         "pt-BR" : {
@@ -175878,6 +177090,12 @@
             "value" : "Run Coprocess…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コプロセスを実行…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -175906,6 +177124,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Enter Workgroup…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ワークグループに参加…"
           }
         },
         "pt-BR" : {
@@ -175938,6 +177162,12 @@
             "value" : "Enter Workgroup…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ワークグループに参加…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -175966,6 +177196,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "exit code %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "終了コード %@"
           }
         },
         "pt-BR" : {
@@ -176004,6 +177240,12 @@
             "value" : "exit code 0"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "終了コード 0"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176040,6 +177282,12 @@
             "value" : "Exit Workgroup"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ワークグループを退出"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176068,6 +177316,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Exit Workgroup"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ワークグループを退出"
           }
         },
         "pt-BR" : {
@@ -176100,6 +177354,12 @@
             "value" : "Fold to Named Mark"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前付きマークまで折りたたむ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176128,6 +177388,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Black Background"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黒背景"
           }
         },
         "pt-BR" : {
@@ -176160,6 +177426,12 @@
             "value" : "Black Foreground"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黒文字"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176188,6 +177460,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Black on Orange"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オレンジ背景に黒文字"
           }
         },
         "pt-BR" : {
@@ -176220,6 +177498,12 @@
             "value" : "Black on Purple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫背景に黒文字"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176248,6 +177532,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Black on Yellow"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄色背景に黒文字"
           }
         },
         "pt-BR" : {
@@ -176280,6 +177570,12 @@
             "value" : "Blue Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "青背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176308,6 +177604,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Blue Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "青文字"
           }
         },
         "pt-BR" : {
@@ -176340,6 +177642,12 @@
             "value" : "Brown Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "茶色背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176368,6 +177676,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Brown Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "茶色文字"
           }
         },
         "pt-BR" : {
@@ -176400,6 +177714,12 @@
             "value" : "Cyan Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シアン背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176428,6 +177748,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Cyan Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シアン文字"
           }
         },
         "pt-BR" : {
@@ -176460,6 +177786,12 @@
             "value" : "Dark Gray Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダークグレー背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176488,6 +177820,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Dark Gray Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダークグレー文字"
           }
         },
         "pt-BR" : {
@@ -176520,6 +177858,12 @@
             "value" : "Gray Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "グレー背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176548,6 +177892,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Gray Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "グレー文字"
           }
         },
         "pt-BR" : {
@@ -176580,6 +177930,12 @@
             "value" : "Green Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "緑背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176608,6 +177964,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Green Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "緑文字"
           }
         },
         "pt-BR" : {
@@ -176640,6 +178002,12 @@
             "value" : "Light Gray Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライトグレー背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176668,6 +178036,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Light Gray Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライトグレー文字"
           }
         },
         "pt-BR" : {
@@ -176700,6 +178074,12 @@
             "value" : "Magenta Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マゼンタ背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176728,6 +178108,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Magenta Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マゼンタ文字"
           }
         },
         "pt-BR" : {
@@ -176760,6 +178146,12 @@
             "value" : "Orange Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オレンジ背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176788,6 +178180,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Orange Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オレンジ文字"
           }
         },
         "pt-BR" : {
@@ -176820,6 +178218,12 @@
             "value" : "Orange on Black"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黒背景にオレンジ文字"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176848,6 +178252,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Purple Background"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫背景"
           }
         },
         "pt-BR" : {
@@ -176880,6 +178290,12 @@
             "value" : "Purple Foreground"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫文字"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176908,6 +178324,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Purple on Black"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黒背景に紫文字"
           }
         },
         "pt-BR" : {
@@ -176940,6 +178362,12 @@
             "value" : "Red Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赤背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176968,6 +178396,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Red Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赤文字"
           }
         },
         "pt-BR" : {
@@ -177000,6 +178434,12 @@
             "value" : "Red on White"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白背景に赤文字"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177028,6 +178468,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "White Background"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白背景"
           }
         },
         "pt-BR" : {
@@ -177060,6 +178506,12 @@
             "value" : "White Foreground"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白文字"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177088,6 +178540,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "White on Red"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赤背景に白文字"
           }
         },
         "pt-BR" : {
@@ -177120,6 +178578,12 @@
             "value" : "Yellow Background"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄色背景"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177148,6 +178612,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Yellow Foreground"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄色文字"
           }
         },
         "pt-BR" : {
@@ -177180,6 +178650,12 @@
             "value" : "Yellow on Black"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黒背景に黄色文字"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177208,6 +178684,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Make Hyperlink…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハイパーリンクを作成…"
           }
         },
         "pt-BR" : {
@@ -177240,6 +178722,12 @@
             "value" : "Make Hyperlink…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハイパーリンクを作成…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177268,6 +178756,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Inject Data…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "データを注入…"
           }
         },
         "pt-BR" : {
@@ -177300,6 +178794,12 @@
             "value" : "Inject Javascript (Content Regex)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JavaScriptを注入(内容の正規表現)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177330,6 +178830,12 @@
             "value" : "Inject Javascript (URL Regex)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JavaScriptを注入(URLの正規表現)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177358,6 +178864,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Job: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ジョブ: %@"
           }
         },
         "pt-BR" : {
@@ -177396,6 +178908,12 @@
             "value" : "Keep Scrolling"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクロールを継続"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177424,6 +178942,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Stop Scrolling"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクロールを停止"
           }
         },
         "pt-BR" : {
@@ -177456,6 +178980,12 @@
             "value" : "Set Mark"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マークを設定"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177484,6 +179014,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "matching /%@/"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一致 /%@/"
           }
         },
         "pt-BR" : {
@@ -177522,6 +179058,12 @@
             "value" : "Run Silent Coprocess…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイレントコプロセスを実行…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177550,6 +179092,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "non-zero exit code"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0以外の終了コード"
           }
         },
         "pt-BR" : {
@@ -177588,6 +179136,12 @@
             "value" : "Error in Trigger Parameter"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トリガーパラメータのエラー"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177624,6 +179178,12 @@
             "value" : "The following parameter for a “%1$@” trigger could not be evaluated:\n\n%2$@\n\nThe error was:\n\n%3$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%1$@」トリガーの次のパラメータを評価できませんでした:\n\n%2$@\n\nエラー内容:\n\n%3$@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177652,6 +179212,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Open Password Manager…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードマネージャーを開く…"
           }
         },
         "pt-BR" : {
@@ -177684,6 +179250,12 @@
             "value" : "appeared"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示された"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177712,6 +179284,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "disappeared"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非表示になった"
           }
         },
         "pt-BR" : {
@@ -177744,6 +179322,12 @@
             "value" : "Invoke Script Function"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクリプト関数を呼び出す"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177772,6 +179356,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Enter Reader Mode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リーダーモードに入る"
           }
         },
         "pt-BR" : {
@@ -177804,6 +179394,12 @@
             "value" : "Reload After Delay"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "遅延後に再読み込み"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177832,6 +179428,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Change Style…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スタイルを変更…"
           }
         },
         "pt-BR" : {
@@ -177864,6 +179466,12 @@
             "value" : "Run Command…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンドを実行…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177894,6 +179502,12 @@
             "value" : "Send Text…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テキストを送信…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177921,6 +179535,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "id: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "id: %@"
           }
         },
@@ -177960,6 +179580,12 @@
             "value" : "Report Directory"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ディレクトリを報告"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177988,6 +179614,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Report User & Host"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ユーザーとホストを報告"
           }
         },
         "pt-BR" : {
@@ -178020,6 +179652,12 @@
             "value" : "Set Named Mark"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前付きマークを設定"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178048,6 +179686,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Set Profile Setting…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロファイルの設定を変更…"
           }
         },
         "pt-BR" : {
@@ -178080,6 +179724,12 @@
             "value" : "Set Title…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトルを設定…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178108,6 +179758,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Prompt Detected"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロンプトを検出"
           }
         },
         "pt-BR" : {
@@ -178140,6 +179796,12 @@
             "value" : "Stop Processing Triggers"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トリガーの処理を停止"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178167,6 +179829,12 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : " URL: "
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : " URL: "
           }
         },
@@ -178206,6 +179874,12 @@
             "value" : "Post Notification…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知を送信…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178234,6 +179908,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Copied"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピーしました"
           }
         },
         "pt-BR" : {
@@ -178272,6 +179952,12 @@
             "value" : "Copy Trigger as URL to Clipboard"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トリガーをURLとしてクリップボードにコピー"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178306,6 +179992,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Export Failed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書き出しに失敗しました"
           }
         },
         "pt-BR" : {
@@ -178344,6 +180036,12 @@
             "value" : "Error saving to %1$@: %2$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@への保存エラー: %2$@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178372,6 +180070,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Export to File"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルに書き出す"
           }
         },
         "pt-BR" : {
@@ -178410,6 +180114,12 @@
             "value" : "On “%1$@”, %2$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%1$@」で%2$@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178440,6 +180150,12 @@
             "value" : "On “%1$@”, %2$@ instantly"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%1$@」で即座に%2$@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178468,6 +180184,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Import Failed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み込みに失敗しました"
           }
         },
         "pt-BR" : {
@@ -178506,6 +180228,12 @@
             "value" : "While loading %1$@: %2$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@の読み込み中: %2$@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178534,6 +180262,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Malformed file at %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@のファイルの形式が不正です"
           }
         },
         "pt-BR" : {
@@ -178572,6 +180306,12 @@
             "value" : "…and %@ more"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "…他%@件"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178608,6 +180348,12 @@
             "value" : "While parsing %1$@: %2$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@の解析中: %2$@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178636,6 +180382,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Select the profiles into which these triggers should be imported:\n\n%@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "これらのトリガーをインポートするプロファイルを選択してください:\n\n%@"
           }
         },
         "pt-BR" : {
@@ -178674,6 +180426,12 @@
             "value" : "Background:"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "背景:"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178708,6 +180466,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Dot:"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ドット:"
           }
         },
         "pt-BR" : {
@@ -178746,6 +180510,12 @@
             "value" : "Text:"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テキスト:"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178782,6 +180552,12 @@
             "value" : "Name"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178816,6 +180592,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Value"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "値"
           }
         },
         "pt-BR" : {
@@ -178872,6 +180654,18 @@
                 "stringUnit" : {
                   "state" : "new",
                   "value" : "%lld custom commands that will run when the arrangement opens"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "配置を開くときに実行されるカスタムコマンド%lld個"
                 }
               }
             }
@@ -178966,6 +180760,18 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "組み込みセッションプロファイル%lld個"
+                }
+              }
+            }
+          }
+        },
         "pt-BR" : {
           "variations" : {
             "plural" : {
@@ -179050,6 +180856,18 @@
                 "stringUnit" : {
                   "state" : "new",
                   "value" : "%lld SSH connections that will be opened automatically"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "自動的に開かれるSSH接続%lld個"
                 }
               }
             }
@@ -179144,6 +180962,18 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "起動時にターミナルへ入力されるテキストを持つセッション%lld個"
+                }
+              }
+            }
+          }
+        },
         "pt-BR" : {
           "variations" : {
             "plural" : {
@@ -179228,6 +181058,18 @@
                 "stringUnit" : {
                   "state" : "new",
                   "value" : "%lld smart-selection rules with custom actions"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "カスタムアクションを持つスマート選択ルール%lld個"
                 }
               }
             }
@@ -179322,6 +181164,18 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "一致した出力に対してアクションを実行するトリガー%lld個"
+                }
+              }
+            }
+          }
+        },
         "pt-BR" : {
           "variations" : {
             "plural" : {
@@ -179388,6 +181242,12 @@
             "value" : "Enter username for host %@ to download file with scp"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "scpでファイルをダウンロードするためのホスト%@のユーザー名を入力してください"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179422,6 +181282,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "URL Handler Command Failed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URLハンドラコマンドが失敗しました"
           }
         },
         "pt-BR" : {
@@ -179460,6 +181326,12 @@
             "value" : "URL Handler"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URLハンドラ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179494,6 +181366,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Site icon - drag to copy URL"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイトアイコン - ドラッグしてURLをコピー"
           }
         },
         "pt-BR" : {
@@ -179532,6 +181410,12 @@
             "value" : "Loading suggestions…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "候補を読み込み中…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179566,6 +181450,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Search or enter website name"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索するかウェブサイト名を入力"
           }
         },
         "pt-BR" : {
@@ -179604,6 +181494,12 @@
             "value" : "Argument must be a string (was %@)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "引数は文字列である必要があります(実際は%@)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179634,6 +181530,12 @@
             "value" : "string argument must be non-null"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字列引数はnull以外である必要があります"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179662,6 +181564,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "⌘⇧T now restores recently closed tabs (Undo Close). The Show Tabs in Fullscreen shortcut has moved to ⌘⇧U.\n\nWould you like to keep ⌘⇧T as the shortcut for Show Tabs in Fullscreen by adding a key binding?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘⇧Tは最近閉じたタブを復元するようになりました(閉じるを元に戻す)。フルスクリーンでタブを表示するショートカットは⌘⇧Uに変更されました。\n\nキー割り当てを追加して、⌘⇧Tをフルスクリーンでタブを表示するショートカットとして維持しますか?"
           }
         },
         "pt-BR" : {
@@ -179700,6 +181608,12 @@
             "value" : "Keyboard Shortcut Changed"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キーボードショートカットが変更されました"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179734,6 +181648,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Keep New Shortcut"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しいショートカットを維持"
           }
         },
         "pt-BR" : {
@@ -179772,6 +181692,12 @@
             "value" : "Restore ⌘⇧T to Show Tabs"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘⇧Tをタブ表示に戻す"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179806,6 +181732,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Undo Close Session"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "セッションを閉じるを元に戻す"
           }
         },
         "pt-BR" : {
@@ -179844,6 +181776,12 @@
             "value" : "Disable Loading Settings from URL"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URLからの設定の読み込みを無効化"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179878,6 +181816,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Hide Unsaved Changes Notification"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未保存の変更通知を隠す"
           }
         },
         "pt-BR" : {
@@ -179916,6 +181860,12 @@
             "value" : "Save Settings"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定を保存"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179950,6 +181900,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Save Settings Automatically"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定を自動的に保存"
           }
         },
         "pt-BR" : {
@@ -179988,6 +181944,12 @@
             "value" : "Uploading “%@”…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」をアップロード中…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180022,6 +181984,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Uploads"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップロード"
           }
         },
         "pt-BR" : {
@@ -180060,6 +182028,12 @@
             "value" : "• “%1$@”: %2$@ → %3$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• 「%1$@」: %2$@ → %3$@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180088,6 +182062,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Python versions are not always compatible across releases, so a bumped script may need small changes."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pythonのバージョンはリリース間で必ずしも互換性があるとは限らないため、バージョンが上がったスクリプトには軽微な変更が必要になる場合があります。"
           }
         },
         "pt-BR" : {
@@ -180120,6 +182100,12 @@
             "value" : "Some scripts were written for Python versions that are no longer available and now use newer ones."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一部のスクリプトは現在は利用できないPythonのバージョン向けに書かれていたため、新しいバージョンを使用するようになりました。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180148,6 +182134,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "The script “%1$@” was written for Python %2$@, which is no longer available, so it now uses Python %3$@."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクリプト「%1$@」はPython %2$@向けに書かれていましたが、これは現在利用できないため、Python %3$@を使用するようになりました。"
           }
         },
         "pt-BR" : {
@@ -180180,6 +182172,12 @@
             "value" : "To run Python scripts, iTerm2 needs to download uv (about %lld MB) and a Python interpreter. Additional Python versions are downloaded automatically later if a script needs them. OK to download it now?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pythonスクリプトを実行するには、iTerm2がuv(約%lld MB)とPythonインタプリタをダウンロードする必要があります。追加のPythonバージョンは、スクリプトが必要とする場合に後で自動的にダウンロードされます。今すぐダウンロードしてもよろしいですか?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180208,6 +182206,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Download Python Support?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pythonサポートをダウンロードしますか?"
           }
         },
         "pt-BR" : {
@@ -180246,6 +182250,12 @@
             "value" : "Downloading uv…"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uvをダウンロード中…"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180282,6 +182292,12 @@
             "value" : "uv is not installed."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uvはインストールされていません。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180310,6 +182326,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "uv %@ is up to date."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uv %@は最新です。"
           }
         },
         "pt-BR" : {
@@ -180342,6 +182364,12 @@
             "value" : "Could not check for a uv update: %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uvの更新を確認できませんでした: %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180370,6 +182398,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Could not download the uv update."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uvの更新をダウンロードできませんでした。"
           }
         },
         "pt-BR" : {
@@ -180402,6 +182436,12 @@
             "value" : "Upgraded uv %1$@ to %2$@. Updated the Python modules in shared environments."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uvを%1$@から%2$@にアップグレードしました。共有環境内のPythonモジュールを更新しました。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180432,6 +182472,12 @@
             "value" : "Unnamed file"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前のないファイル"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180460,6 +182506,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pause"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一時停止"
           }
         },
         "pt-BR" : {
@@ -180498,6 +182550,12 @@
             "value" : "Play"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再生"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180532,6 +182590,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Play Backward"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "逆再生"
           }
         },
         "pt-BR" : {
@@ -180570,6 +182634,12 @@
             "value" : "Reveal in Finder"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finderで表示"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180604,6 +182674,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Instant Replay"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インスタントリプレイ"
           }
         },
         "pt-BR" : {
@@ -180642,6 +182718,12 @@
             "value" : "Current Tab Color"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在のタブの色"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180678,6 +182760,12 @@
             "value" : "Invalid key: <%1$@> at index %2$lld in %3$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効なキー: <%1$@>(インデックス%2$lld、%3$@内)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180708,6 +182796,12 @@
             "value" : "Missing closing '>' at index %1$lld in %2$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "閉じ括弧「>」がありません(インデックス%1$lld、%2$@内)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180736,6 +182830,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Warning"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "警告"
           }
         },
         "pt-BR" : {
@@ -180774,6 +182874,12 @@
             "value" : "Permanently Forget Saved Selection"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存した選択を完全に忘れる"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180810,6 +182916,12 @@
             "value" : "Remember my choice"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この選択を記憶する"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180838,6 +182950,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Remember my choice for ten minutes"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この選択を10分間記憶する"
           }
         },
         "pt-BR" : {
@@ -180870,6 +182988,12 @@
             "value" : "Remember my choice for 30 days"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この選択を30日間記憶する"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180898,6 +183022,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@\n\nThis alert had a saved selection of “%2$@”. It is being shown because “Always show alerts with remembered selections” is turned on in iTerm2 > Suppressed Alerts."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@\n\nこのアラートには「%2$@」という保存された選択がありました。iTerm2 > 抑制されたアラートで「記憶された選択があるアラートを常に表示する」がオンになっているため表示されています。"
           }
         },
         "pt-BR" : {
@@ -180930,6 +183060,12 @@
             "value" : "Suppress this message permanently"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このメッセージを常に非表示にする"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180958,6 +183094,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Suppress this message for ten minutes"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このメッセージを10分間非表示にする"
           }
         },
         "pt-BR" : {
@@ -180990,6 +183132,12 @@
             "value" : "Suppress this message for 30 days"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このメッセージを30日間非表示にする"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181020,6 +183168,12 @@
             "value" : "Default Browser"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デフォルトのブラウザ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181048,6 +183202,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Open in %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@で開く"
           }
         },
         "pt-BR" : {
@@ -181086,6 +183246,12 @@
             "value" : "Arrangement (%@)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置 (%@)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181114,6 +183280,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Name for saved window arrangement:"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存するウィンドウ配置の名前:"
           }
         },
         "pt-BR" : {
@@ -181152,6 +183324,12 @@
             "value" : "Arrangement (%1$@) %2$ld"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置 (%1$@) %2$ld"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181180,6 +183358,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "An arrangement named “%@” already exists. Would you like to replace it?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」という名前の配置は既に存在します。置き換えますか?"
           }
         },
         "pt-BR" : {
@@ -181218,6 +183402,12 @@
             "value" : "Replace Arrangement?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置を置き換えますか?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181252,6 +183442,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There is an existing saved window arrangement with this name. Would you like to replace it with the current arrangement?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この名前の保存済みウィンドウ配置が既に存在します。現在の配置で置き換えますか?"
           }
         },
         "pt-BR" : {
@@ -181290,6 +183486,12 @@
             "value" : "Replace Existing Saved Window Arrangement?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "既存の保存済みウィンドウ配置を置き換えますか?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181324,6 +183526,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Save to File with Contents…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内容付きでファイルに保存…"
           }
         },
         "pt-BR" : {
@@ -181362,6 +183570,12 @@
             "value" : "Error parsing layout %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レイアウト%@の解析エラー"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181396,6 +183610,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Error: malformed history line from tmux."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エラー: tmuxからの履歴行の形式が不正です。"
           }
         },
         "pt-BR" : {
@@ -181434,6 +183654,12 @@
             "value" : "Can't open window: missing layout"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウィンドウを開けません: レイアウトがありません"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181468,6 +183694,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "See Console.app for details"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細はConsole.appを参照してください"
           }
         },
         "pt-BR" : {
@@ -181542,6 +183774,28 @@
                     "stringUnit" : {
                       "state" : "new",
                       "value" : "This will also exit the workgroup “%1$@” and close %2$lld other sessions."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$#@sessions@"
+          },
+          "substitutions" : {
+            "sessions" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "これによりワークグループ「%1$@」も終了し、他の%2$lld個のセッションを閉じます。"
                     }
                   }
                 }
@@ -181678,6 +183932,28 @@
             }
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$#@sessions@"
+          },
+          "substitutions" : {
+            "sessions" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "これにより%1$lld個のワークグループも終了し、他の%2$lld個のセッションを閉じます。"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181764,6 +184040,12 @@
             "value" : "Main session"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メインセッション"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181792,6 +184074,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Peer: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ピア: %@"
           }
         },
         "pt-BR" : {
@@ -181824,6 +184112,12 @@
             "value" : "Split: Horizontal %lld%%"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分割: 水平 %lld%%"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181852,6 +184146,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Split: Vertical %lld%%"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分割: 垂直 %lld%%"
           }
         },
         "pt-BR" : {
@@ -181884,6 +184184,12 @@
             "value" : "Tab"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タブ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181912,6 +184218,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Ant"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アリ"
           }
         },
         "pt-BR" : {
@@ -181944,6 +184256,12 @@
             "value" : "Ape"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "類人猿"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -181972,6 +184290,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Asp"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アスプ"
           }
         },
         "pt-BR" : {
@@ -182004,6 +184328,12 @@
             "value" : "Bat"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コウモリ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182032,6 +184362,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Bear"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クマ"
           }
         },
         "pt-BR" : {
@@ -182064,6 +184400,12 @@
             "value" : "Bee"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハチ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182092,6 +184434,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Boar"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "イノシシ"
           }
         },
         "pt-BR" : {
@@ -182124,6 +184472,12 @@
             "value" : "Camel"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ラクダ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182152,6 +184506,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Cat"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ネコ"
           }
         },
         "pt-BR" : {
@@ -182184,6 +184544,12 @@
             "value" : "Cow"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウシ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182212,6 +184578,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Crab"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カニ"
           }
         },
         "pt-BR" : {
@@ -182244,6 +184616,12 @@
             "value" : "Crow"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カラス"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182272,6 +184650,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Deer"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シカ"
           }
         },
         "pt-BR" : {
@@ -182304,6 +184688,12 @@
             "value" : "Doe"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雌鹿"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182332,6 +184722,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Dog"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "イヌ"
           }
         },
         "pt-BR" : {
@@ -182364,6 +184760,12 @@
             "value" : "Dove"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハト"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182392,6 +184794,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Duck"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アヒル"
           }
         },
         "pt-BR" : {
@@ -182424,6 +184832,12 @@
             "value" : "Eagle"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ワシ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182452,6 +184866,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Elk"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヘラジカ"
           }
         },
         "pt-BR" : {
@@ -182484,6 +184904,12 @@
             "value" : "Emu"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エミュー"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182512,6 +184938,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Ewe"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雌羊"
           }
         },
         "pt-BR" : {
@@ -182544,6 +184976,12 @@
             "value" : "Fawn"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子鹿"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182572,6 +185010,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Fox"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キツネ"
           }
         },
         "pt-BR" : {
@@ -182604,6 +185048,12 @@
             "value" : "Frog"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カエル"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182632,6 +185082,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Gecko"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヤモリ"
           }
         },
         "pt-BR" : {
@@ -182664,6 +185120,12 @@
             "value" : "Goat"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヤギ"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -182692,6 +185154,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Goose"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ガチョウ"
           }
         },
         "pt-BR" : {

@@ -29,6 +29,12 @@
             "value" : "Apagar histórico de busca"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Очистить историю поиска"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -63,6 +69,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Substring com diferenciação de maiúsculas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подстрока с учётом регистра"
           }
         },
         "zh-Hans" : {
@@ -101,6 +113,12 @@
             "value" : "Substring sem diferenciação de maiúsculas"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подстрока без учёта регистра"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buscar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск"
           }
         },
         "zh-Hans" : {
@@ -173,6 +197,12 @@
             "value" : "Regex com diferenciação de maiúsculas"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Регулярное выражение с учётом регистра"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -209,6 +239,12 @@
             "value" : "Substring com caixa inteligente"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подстрока с умным учётом регистра"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243,6 +279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Regex sem diferenciação de maiúsculas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Регулярное выражение без учёта регистра"
           }
         },
         "zh-Hans" : {

@@ -28,6 +28,12 @@
             "state" : "translated",
             "value" : "Dividir o painel atual XXXalmente"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разделить текущую панель XXXally"
+          }
         }
       }
     },
@@ -57,6 +63,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {
@@ -93,6 +105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dividir"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разделить"
           }
         },
         "zh-Hans" : {

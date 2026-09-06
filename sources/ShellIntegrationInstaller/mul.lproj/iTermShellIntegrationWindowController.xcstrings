@@ -29,6 +29,12 @@
             "value" : "Baixa a versão mais recente. Executa curl | bash"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загружает последнюю версию. Выполняет curl | bash"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -63,6 +69,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continuar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продолжить"
           }
         },
         "zh-Hans" : {
@@ -101,6 +113,12 @@
             "value" : "OK"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {
@@ -173,6 +197,12 @@
             "value" : "1. Descubra qual shell você usa.\n2. Adicione arquivos de script na sua pasta de início.\n3. Instale scripts utilitários.\n4. Modifique os scripts de inicialização do seu shell."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Определяет, какой shell вы используете.\n2. Добавляет файлы скриптов в вашем домашнем каталоге.\n3. Устанавливает служебные скрипты.\n4. Изменяет стартовые скрипты вашего shell."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voltar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назад"
           }
         },
         "zh-Hans" : {
@@ -245,6 +281,12 @@
             "value" : "Os utilitários incluem scripts para baixar arquivos, exibir imagens em linha e muito mais. "
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Утилиты включают скрипты для загрузки файлов, встроенного отображения изображений и не только. "
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voltar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назад"
           }
         },
         "zh-Hans" : {
@@ -317,6 +365,12 @@
             "value" : "Continuar"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продолжить"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -351,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {
@@ -389,6 +449,12 @@
             "value" : "Pular"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пропустить"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -423,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {
@@ -461,6 +533,12 @@
             "value" : "Pré-visualizar comando"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Просмотреть команду"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -495,6 +573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instalação sem internet"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Установка без интернета"
           }
         },
         "zh-Hans" : {
@@ -533,6 +617,12 @@
             "value" : "Baixar e executar o instalador"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загрузить и запустить установщик"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -567,6 +657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Também instalar os utilitários do iTerm2"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Также установить утилиты iTerm2"
           }
         },
         "zh-Hans" : {
@@ -605,6 +701,12 @@
             "value" : "Instalação manual guiada. Nenhum download necessário."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пошаговая ручная установка. Загрузка не требуется."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -639,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pré-visualizar comando"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Просмотреть команду"
           }
         },
         "zh-Hans" : {
@@ -677,6 +785,12 @@
             "value" : "Continuar"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продолжить"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -708,6 +822,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎉"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "🎉"
@@ -749,6 +869,12 @@
             "value" : "Pré-visualizar comando"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Просмотреть команду"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -783,6 +909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voltar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назад"
           }
         },
         "zh-Hans" : {
@@ -821,6 +953,12 @@
             "value" : "Como você gostaria de instalar a Shell Integration?\n\nNesse processo, os scripts de inicialização do seu shell serão modificados. Este instalador digitará os comandos na janela do terminal para você."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как вы хотите установить Shell-интеграцию?\n\nВ ходе этого процесса будут изменены стартовые скрипты вашего shell. Этот установщик будет вводить команды в окне терминала за вас."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -855,6 +993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pré-visualizar comando"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Просмотреть команду"
           }
         },
         "zh-Hans" : {
@@ -893,6 +1037,12 @@
             "value" : "Instalação concluída!"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Установка завершена!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -927,6 +1077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Isto executará o seguinte comando:\n\ncurl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будет выполнена следующая команда:\n\ncurl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash"
           }
         },
         "zh-Hans" : {
@@ -965,6 +1121,12 @@
             "value" : "Crie uma nova aba para testar.\n\nPara obter os melhores resultados, instale a Shell Integration em todos os hosts nos quais você entra via ssh."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создайте новую вкладку, чтобы опробовать это.\n\nДля лучшего результата установите shell-интеграцию на всех хостах, к которым вы подключаетесь по ssh."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -999,6 +1161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A Shell Integration consiste em scripts que ajudam o seu shell a se comunicar com o iTerm2 para que ele possa rastrear os comandos que você está executando, o seu diretório atual e outros estados. "
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shell-интеграция состоит из скриптов, которые помогают вашему shell взаимодействовать с iTerm2, чтобы отслеживать выполняемые вами команды, текущий каталог и другое состояние. "
           }
         },
         "zh-Hans" : {
@@ -1037,6 +1205,12 @@
             "value" : "Instalar Shell Integration"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Установить Shell-интеграцию"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1071,6 +1245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {

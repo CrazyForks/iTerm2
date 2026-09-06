@@ -29,6 +29,12 @@
             "value": "Rótulo"
           }
         },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подпись"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",

@@ -29,6 +29,12 @@
             "value" : "/directory"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/directory"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -63,6 +69,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Copiar diretório"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скопировать каталог"
           }
         },
         "zh-Hans" : {
@@ -101,6 +113,12 @@
             "value" : "12 bytes"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12 байт"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecionar a saída do comando"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выделить вывод команды"
           }
         },
         "zh-Hans" : {
@@ -173,6 +197,12 @@
             "value" : "1h 35m"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 ч 35 мин"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saída:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вывод:"
           }
         },
         "zh-Hans" : {
@@ -245,6 +281,12 @@
             "value" : "Copiado"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скопировано"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Copiar comando para a área de transferência"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скопировать команду в буфер обмена"
           }
         },
         "zh-Hans" : {
@@ -317,6 +365,12 @@
             "value" : "Iniciado em %@"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Начато в %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -351,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir comando no Compositor"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть команду в Композиторе"
           }
         },
         "zh-Hans" : {
@@ -389,6 +449,12 @@
             "value" : "Pasta arrastável"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перетаскиваемая папка"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -423,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "comando"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "команда"
           }
         },
         "zh-Hans" : {
@@ -461,6 +533,12 @@
             "value" : "Escrever comando no terminal"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вставить команду в терминал"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -495,6 +573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Diretório:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каталог:"
           }
         },
         "zh-Hans" : {
@@ -533,6 +617,12 @@
             "value" : "Código de retorno:"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Код возврата:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -567,6 +657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escrever diretório no terminal"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вставить каталог в терминал"
           }
         },
         "zh-Hans" : {
@@ -605,6 +701,12 @@
             "value" : "Tempo de execução:"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Время выполнения:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -639,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Copiar a saída do comando"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скопировать вывод команды"
           }
         },
         "zh-Hans" : {
@@ -677,6 +785,12 @@
             "value" : "Compartilhar comando…"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поделиться командой…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -713,6 +827,12 @@
             "value" : "Comando:"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Команда:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -744,6 +864,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "127"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "127"
@@ -783,6 +909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desativar exibição de comando fora da tela"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отключить показ команды за пределами экрана"
           }
         },
         "zh-Hans" : {

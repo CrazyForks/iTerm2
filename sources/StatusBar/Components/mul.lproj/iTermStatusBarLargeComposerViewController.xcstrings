@@ -29,6 +29,12 @@
             "value" : "Preenchimento por IA ativado: todo o texto é enviado à IA"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автодополнение ИИ включено: весь текст отправляется в ИИ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -63,6 +69,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descreve como usar o Compositor."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Описывает, как использовать Композитор."
           }
         },
         "zh-Hans" : {
@@ -101,6 +113,12 @@
             "value" : "Pressione ⇧↩ para enviar."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите ⇧↩ для отправки."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "IA"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ИИ"
           }
         },
         "zh-Hans" : {
