@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Case-Sensitive Substring\"; ObjectID = \"9a5-fE-FWY\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teilzeichenfolge (Groß-/Kleinschreibung beachten)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Case-Sensitive Substring"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字小文字を区別する部分一致"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Smart Case Substring\"; ObjectID = \"9vm-lJ-Kqt\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teilzeichenfolge (intelligente Groß-/Kleinschreibung)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Smart Case Substring"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スマートケース部分一致"
           }
         },
         "pt-BR" : {
@@ -53,10 +77,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Case-Sensitive Regex\"; ObjectID = \"a2M-Nc-Alm\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regex (Groß-/Kleinschreibung beachten)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Case-Sensitive Regex"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字小文字を区別する正規表現"
           }
         },
         "pt-BR" : {
@@ -77,10 +113,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Case-Insensitive Regex\"; ObjectID = \"elJ-Qs-6bJ\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regex (Groß-/Kleinschreibung ignorieren)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Case-Insensitive Regex"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字小文字を区別しない正規表現"
           }
         },
         "pt-BR" : {
@@ -101,10 +149,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Case-Insensitive Substring\"; ObjectID = \"Gve-ot-1QH\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teilzeichenfolge (Groß-/Kleinschreibung ignorieren)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Case-Insensitive Substring"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字小文字を区別しない部分一致"
           }
         },
         "pt-BR" : {
@@ -125,10 +185,22 @@
       "comment" : "Class = \"NSSearchFieldCell\"; placeholderString = \"Filter\"; ObjectID = \"KgY-y0-6XN\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Filter"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フィルタ"
           }
         },
         "pt-BR" : {

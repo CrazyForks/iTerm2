@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"AI completion enabled: all text sent to AI\"; ObjectID = \"d6h-kf-O57\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "KI-Vervollständigung aktiviert: Der gesamte Text wird an die KI gesendet"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "AI completion enabled: all text sent to AI"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI補完が有効: すべてのテキストがAIに送信されます"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Describes how to use the composer.\"; ObjectID = \"Due-Dn-30r\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschreibt, wie der Composer verwendet wird."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Describes how to use the composer."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンポーザーの使い方を説明します。"
           }
         },
         "pt-BR" : {
@@ -53,10 +77,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Press ⇧↩ to send.\"; ObjectID = \"mjF-rO-FZ2\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zum Senden ⇧↩ drücken."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Press ⇧↩ to send."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⇧↩ を押して送信します。"
           }
         },
         "pt-BR" : {
@@ -77,9 +113,21 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"AI\"; ObjectID = \"zb3-gB-4Zi\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "KI"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "AI"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "AI"
           }
         },

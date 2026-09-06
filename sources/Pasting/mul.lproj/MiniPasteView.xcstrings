@@ -5,16 +5,34 @@
       "comment": "Class = \"NSTextFieldCell\"; title = \"Pasting…\"; ObjectID = \"3\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wird eingefügt…"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
             "value": "Pasting…"
           }
         },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "貼り付け中…"
+          }
+        },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
             "value": "Colando…"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вставка…"
           }
         },
         "zh-Hans": {

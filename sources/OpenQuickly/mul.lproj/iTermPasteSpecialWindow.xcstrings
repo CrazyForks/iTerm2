@@ -5,9 +5,21 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"mm:ss\"; ObjectID = \"8zE-aR-AaJ\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mm:ss"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "mm:ss"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "mm:ss"
           }
         },
@@ -15,6 +27,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "mm:ss"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "мм:сс"
           }
         },
         "zh-Hans" : {
@@ -29,16 +47,34 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"xxx lines, xxx bytes.\"; ObjectID = \"g9t-TC-J5B\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "xxx Zeilen, xxx Bytes."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "xxx lines, xxx bytes."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "xxx行、xxxバイト。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "xxx linhas, xxx bytes."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "xxx строк, xxx байт."
           }
         },
         "zh-Hans" : {
@@ -53,16 +89,34 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Paste\"; ObjectID = \"lP3-7o-P32\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einfügen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Paste"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貼り付け"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Colar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вставить"
           }
         },
         "zh-Hans" : {
@@ -77,16 +131,34 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"tNC-sd-mDR\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {
@@ -101,16 +173,34 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Minimum duration:\"; ObjectID = \"Vi3-0q-5iR\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindestdauer:"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Minimum duration:"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最小継続時間:"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Duração mínima:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Минимальная длительность:"
           }
         },
         "zh-Hans" : {

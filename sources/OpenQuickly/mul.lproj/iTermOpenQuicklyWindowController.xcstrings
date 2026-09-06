@@ -5,16 +5,34 @@
       "comment" : "Class = \"NSWindow\"; title = \"Open Quickly\"; ObjectID = \"F0z-JX-Cv5\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schnell öffnen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Open Quickly"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クイックオープン"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir rapidamente"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Быстрое открытие"
           }
         },
         "zh-Hans" : {
@@ -29,16 +47,34 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Detail\"; ObjectID = \"NGu-Jc-J4f\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detail"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Detail"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detalhe"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подробности"
           }
         },
         "zh-Hans" : {
@@ -53,16 +89,34 @@
       "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"Search for sessions, profiles, or arrangements\"; ObjectID = \"ulN-O0-L4B\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach Sitzungen, Profilen oder Anordnungen suchen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Search for sessions, profiles, or arrangements"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "セッション、プロファイル、アレンジメントを検索"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buscar sessões, perfis ou disposições"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск сессий, профилей или расстановок окон"
           }
         },
         "zh-Hans" : {

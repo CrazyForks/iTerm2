@@ -18330,6 +18330,9 @@
 			knownRegions = (
 				"zh-Hans",
 				"pt-BR",
+				de,
+				ja,
+				ru,
 				en,
 				Base,
 			);

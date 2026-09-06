@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Downloads the latest version. Runs curl | bash\"; ObjectID = \"3ik-Ec-g95\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lädt die neueste Version herunter. Führt curl | bash aus"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Downloads the latest version. Runs curl | bash"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最新バージョンをダウンロードします。curl | bashを実行します"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Continue\"; ObjectID = \"A3D-QU-2Cx\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortfahren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Continue"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "続ける"
           }
         },
         "pt-BR" : {
@@ -53,9 +77,21 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"b2l-Qa-QNL\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -77,10 +113,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"BbS-EU-hMu\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "pt-BR" : {
@@ -101,10 +149,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"1. Discover which shell you use.\\n2. Add script files under your home directory.\\n3. Install utility scripts.\\n4. Modify your shell’s startup scripts.\"; ObjectID = \"bFR-qd-VRH\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Ermitteln, welche Shell Sie verwenden.\n2. Skriptdateien in Ihrem Home-Verzeichnis hinzufügen.\n3. Hilfsskripte installieren.\n4. Die Startskripte Ihrer Shell ändern."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "1. Discover which shell you use.\n2. Add script files under your home directory.\n3. Install utility scripts.\n4. Modify your shell’s startup scripts."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 使用しているシェルを判別します。\n2. ホームディレクトリ配下にスクリプトファイルを追加します。\n3. ユーティリティスクリプトをインストールします。\n4. シェルの起動スクリプトを変更します。"
           }
         },
         "pt-BR" : {
@@ -125,10 +185,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Go Back\"; ObjectID = \"cmu-UF-19Z\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zurück"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Go Back"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "戻る"
           }
         },
         "pt-BR" : {
@@ -149,10 +221,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Utilities include scripts to download files, display images inline, and more. \"; ObjectID = \"cyF-wg-XYY\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zu den Dienstprogrammen gehören Skripte zum Herunterladen von Dateien, zur Inline-Anzeige von Bildern und mehr. "
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Utilities include scripts to download files, display images inline, and more. "
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ユーティリティには、ファイルのダウンロード、画像のインライン表示などを行うスクリプトが含まれます。 "
           }
         },
         "pt-BR" : {
@@ -173,10 +257,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Go Back\"; ObjectID = \"dEn-49-J38\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zurück"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Go Back"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "戻る"
           }
         },
         "pt-BR" : {
@@ -197,10 +293,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Continue\"; ObjectID = \"E0t-ip-Qv2\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortfahren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Continue"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "続ける"
           }
         },
         "pt-BR" : {
@@ -221,10 +329,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"Ghw-SZ-fwQ\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "pt-BR" : {
@@ -245,10 +365,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Skip\"; ObjectID = \"GW7-My-Ydm\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überspringen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Skip"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スキップ"
           }
         },
         "pt-BR" : {
@@ -269,10 +401,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"H9m-Oh-rVp\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "pt-BR" : {
@@ -293,10 +437,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Preview Command\"; ObjectID = \"K0a-WG-CVu\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehlsvorschau"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Preview Command"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンドをプレビュー"
           }
         },
         "pt-BR" : {
@@ -317,10 +473,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Internet-Free Install\"; ObjectID = \"naS-Ve-VEB\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation ohne Internet"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Internet-Free Install"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インターネット不要のインストール"
           }
         },
         "pt-BR" : {
@@ -341,10 +509,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Download and Run Installer\"; ObjectID = \"ncg-Is-RuU\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installationsprogramm herunterladen und ausführen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Download and Run Installer"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インストーラーをダウンロードして実行"
           }
         },
         "pt-BR" : {
@@ -365,10 +545,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Also install iTerm2 Utilities\"; ObjectID = \"ntQ-Ku-Hh9\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2-Dienstprogramme ebenfalls installieren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Also install iTerm2 Utilities"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2ユーティリティもインストールする"
           }
         },
         "pt-BR" : {
@@ -389,10 +581,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Guided manual installation. No download required.\"; ObjectID = \"oFz-OK-xmV\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geführte manuelle Installation. Kein Download erforderlich."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Guided manual installation. No download required."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ガイド付き手動インストール。ダウンロードは不要です。"
           }
         },
         "pt-BR" : {
@@ -413,10 +617,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Preview Command\"; ObjectID = \"OOc-Is-r4d\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehlsvorschau"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Preview Command"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンドをプレビュー"
           }
         },
         "pt-BR" : {
@@ -437,10 +653,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Continue\"; ObjectID = \"pUe-5J-qNa\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortfahren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Continue"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "続ける"
           }
         },
         "pt-BR" : {
@@ -461,9 +689,21 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"🎉\"; ObjectID = \"ra4-BC-EG1\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🎉"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "🎉"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "🎉"
           }
         },
@@ -485,10 +725,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Preview Command\"; ObjectID = \"srv-Ew-0Pt\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehlsvorschau"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Preview Command"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンドをプレビュー"
           }
         },
         "pt-BR" : {
@@ -509,10 +761,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Go Back\"; ObjectID = \"u02-01-Bxc\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zurück"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Go Back"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "戻る"
           }
         },
         "pt-BR" : {
@@ -533,10 +797,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"How would you like to install Shell Integration?\\n\\nIn this process, your shell’s startup scripts will be modified. This installer will enter commands in the terminal window for you.\"; ObjectID = \"UYA-J9-ck1\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie möchten Sie die Shell-Integration installieren?\n\nBei diesem Vorgang werden die Startskripte Ihrer Shell geändert. Dieses Installationsprogramm gibt die Befehle für Sie im Terminalfenster ein."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "How would you like to install Shell Integration?\n\nIn this process, your shell’s startup scripts will be modified. This installer will enter commands in the terminal window for you."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シェル統合をどのようにインストールしますか？\n\nこの処理では、シェルの起動スクリプトが変更されます。このインストーラーがターミナルウィンドウにコマンドを入力します。"
           }
         },
         "pt-BR" : {
@@ -557,10 +833,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Preview Command\"; ObjectID = \"vFx-5X-71f\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehlsvorschau"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Preview Command"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンドをプレビュー"
           }
         },
         "pt-BR" : {
@@ -581,10 +869,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Installation complete!\"; ObjectID = \"vT8-og-7pl\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation abgeschlossen!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Installation complete!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インストールが完了しました！"
           }
         },
         "pt-BR" : {
@@ -605,10 +905,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"This will run the following command:\\n\\ncurl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash\"; ObjectID = \"w9k-Lv-5eU\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dies führt den folgenden Befehl aus:\n\ncurl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "This will run the following command:\n\ncurl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以下のコマンドを実行します:\n\ncurl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash"
           }
         },
         "pt-BR" : {
@@ -629,10 +941,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Create a new tab to try it out.\\n\\nFor best results, install shell integration on all hosts you ssh in to.\"; ObjectID = \"WeK-Fh-3OJ\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erstellen Sie einen neuen Tab, um es auszuprobieren.\n\nFür beste Ergebnisse installieren Sie die Shell-Integration auf allen Hosts, mit denen Sie sich per SSH verbinden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Create a new tab to try it out.\n\nFor best results, install shell integration on all hosts you ssh in to."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しいタブを作成して試してみてください。\n\n最良の結果を得るには、SSHで接続するすべてのホストにシェル統合をインストールしてください。"
           }
         },
         "pt-BR" : {
@@ -653,10 +977,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Shell Integration consists of scripts that help your shell communicate with iTerm2 so it can track the commands you’re running, your current directory, and other state. \"; ObjectID = \"wl0-hO-Vi5\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Shell-Integration besteht aus Skripten, die Ihrer Shell helfen, mit iTerm2 zu kommunizieren, damit die ausgeführten Befehle, Ihr aktuelles Verzeichnis und weitere Zustände nachverfolgt werden können. "
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Shell Integration consists of scripts that help your shell communicate with iTerm2 so it can track the commands you’re running, your current directory, and other state. "
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シェル統合は、シェルがiTerm2と通信できるようにするスクリプト群で構成されており、実行中のコマンドや現在のディレクトリなどの状態を追跡できるようにします。 "
           }
         },
         "pt-BR" : {
@@ -677,10 +1013,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Install Shell Integration\"; ObjectID = \"ypn-Vl-A1e\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shell-Integration installieren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Install Shell Integration"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シェル統合をインストール"
           }
         },
         "pt-BR" : {
@@ -701,10 +1049,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"Zbw-qG-h4I\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "pt-BR" : {

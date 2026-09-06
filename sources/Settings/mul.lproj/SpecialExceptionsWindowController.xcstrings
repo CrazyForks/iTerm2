@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Install Nerd Font Bundle…\"; ObjectID = \"7bA-9Z-zK3\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nerd-Font-Paket installieren…"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Install Nerd Font Bundle…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nerd Fontバンドルをインストール…"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSWindow\"; title = \"Edit Special Exception\"; ObjectID = \"7pL-Nx-6Zr\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spezielle Ausnahme bearbeiten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit Special Exception"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特別な例外を編集"
           }
         },
         "pt-BR" : {
@@ -53,9 +77,21 @@
       "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"U+xxx\"; ObjectID = \"19O-2l-lvt\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U+xxx"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "U+xxx"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "U+xxx"
           }
         },
@@ -77,10 +113,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Special Exceptions override fonts for specific Unicode ranges or scripts.\"; ObjectID = \"50c-TU-qXa\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spezielle Ausnahmen überschreiben Schriftarten für bestimmte Unicode-Bereiche oder Schriftsysteme."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Special Exceptions override fonts for specific Unicode ranges or scripts."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特別な例外は、特定のUnicode範囲またはスクリプトのフォントを上書きします。"
           }
         },
         "pt-BR" : {
@@ -101,9 +149,21 @@
       "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"U+xxx\"; ObjectID = \"Eaw-6f-gXv\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U+xxx"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "U+xxx"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "U+xxx"
           }
         },
@@ -125,9 +185,21 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"GFP-YT-OoG\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -149,10 +221,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Of Font:\"; ObjectID = \"Hpa-f0-bgv\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schriftart:"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Of Font:"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォントの:"
           }
         },
         "pt-BR" : {
@@ -173,10 +257,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"For characters starting at\"; ObjectID = \"jbS-ge-dwV\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Für Zeichen beginnend bei"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "For characters starting at"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "次で始まる文字に対して"
           }
         },
         "pt-BR" : {
@@ -197,10 +293,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Add Preset…\"; ObjectID = \"K4n-LF-VUt\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voreinstellung hinzufügen…"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Add Preset…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プリセットを追加…"
           }
         },
         "pt-BR" : {
@@ -221,10 +329,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"Nme-0p-Ecj\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "pt-BR" : {
@@ -245,10 +365,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"to\"; ObjectID = \"nyP-1o-ltH\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bis"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "to"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "〜"
           }
         },
         "pt-BR" : {
@@ -269,10 +401,22 @@
       "comment" : "Class = \"NSWindow\"; title = \"Manage Special Exceptions\"; ObjectID = \"QvC-M9-y7g\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spezielle Ausnahmen verwalten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Manage Special Exceptions"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特別な例外を管理"
           }
         },
         "pt-BR" : {
@@ -293,9 +437,21 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"raH-fi-CM2\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -317,10 +473,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Use Code Points\"; ObjectID = \"w1n-Lp-vNo\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Codepunkte verwenden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use Code Points"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コードポイントを使用"
           }
         },
         "pt-BR" : {
@@ -341,10 +509,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"xs7-DG-LSZ\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "pt-BR" : {
@@ -365,9 +545,21 @@
       "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"U+xxx\"; ObjectID = \"YOm-En-lgT\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U+xxx"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "U+xxx"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "U+xxx"
           }
         },

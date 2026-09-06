@@ -5,13 +5,31 @@
       "comment" : "Get Info string",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3.7.dev"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "3.7.dev"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3.7.dev"
+          }
+        },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3.7.dev"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "3.7.dev"
@@ -23,13 +41,31 @@
       "comment" : "Bundle name",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "iTerm2"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2"
+          }
+        },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "iTerm2"
@@ -41,16 +77,34 @@
       "comment" : "Privacy - AppleEvents Sending Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte AppleScript verwenden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use AppleScript."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションがAppleScriptを使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar o AppleScript."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать AppleScript."
           }
         },
         "zh-Hans" : {
@@ -65,16 +119,34 @@
       "comment" : "Privacy - Bluetooth Always Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte Bluetooth verwenden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use Bluetooth."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションがBluetoothを使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar o Bluetooth."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать Bluetooth."
           }
         },
         "zh-Hans" : {
@@ -89,16 +161,34 @@
       "comment" : "Privacy - Calendars Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte auf Kalenderdaten zugreifen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use Calendar data."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションがカレンダーのデータを使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar os dados do Calendário."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать данные календаря."
           }
         },
         "zh-Hans" : {
@@ -113,16 +203,34 @@
       "comment" : "Privacy - Camera Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte die Kamera verwenden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use the camera."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションがカメラを使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar a câmera."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать камеру."
           }
         },
         "zh-Hans" : {
@@ -137,16 +245,34 @@
       "comment" : "Privacy - Contacts Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte auf Ihre Kontakte zugreifen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use your contacts."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションが連絡先を使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar seus contatos."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать ваши контакты."
           }
         },
         "zh-Hans" : {
@@ -161,13 +287,31 @@
       "comment" : "Copyright (human-readable)",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GPL v2"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "GPL v2"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GPL v2"
+          }
+        },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GPL v2"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "GPL v2"
@@ -179,16 +323,34 @@
       "comment" : "Privacy - Local Network Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte auf das lokale Netzwerk zugreifen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to access the local network."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションがローカルネットワークにアクセスしようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer acessar a rede local."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет получить доступ к локальной сети."
           }
         },
         "zh-Hans" : {
@@ -203,16 +365,34 @@
       "comment" : "Privacy - Location Always Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte Ihre Standortinformationen verwenden, auch im Hintergrund."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use your location information, even in the background."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションが、バックグラウンドでも位置情報を使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar suas informações de localização, mesmo em segundo plano."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать данные о вашем местоположении, даже в фоновом режиме."
           }
         },
         "zh-Hans" : {
@@ -227,16 +407,34 @@
       "comment" : "Privacy - Location Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte Ihre Standortinformationen verwenden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use your location information."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションが位置情報を使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar suas informações de localização."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать данные о вашем местоположении."
           }
         },
         "zh-Hans" : {
@@ -251,16 +449,34 @@
       "comment" : "Privacy - Location When In Use Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte Ihre Standortinformationen verwenden, während sie aktiv ist."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use your location information while active."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションが、アクティブなときに位置情報を使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar suas informações de localização enquanto estiver ativo."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать данные о вашем местоположении, пока оно активно."
           }
         },
         "zh-Hans" : {
@@ -275,16 +491,34 @@
       "comment" : "Privacy - Microphone Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte Ihr Mikrofon verwenden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use your microphone."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションがマイクを使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar seu microfone."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать ваш микрофон."
           }
         },
         "zh-Hans" : {
@@ -299,16 +533,34 @@
       "comment" : "Privacy - Photo Library Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte auf die Fotomediathek zugreifen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use the photo library."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションが写真ライブラリを使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar a fototeca."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать фотобиблиотеку."
           }
         },
         "zh-Hans" : {
@@ -323,16 +575,34 @@
       "comment" : "Privacy - Reminders Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte auf Ihre Erinnerungen zugreifen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use your reminders."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションがリマインダーを使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar seus lembretes."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать ваши напоминания."
           }
         },
         "zh-Hans" : {
@@ -347,16 +617,34 @@
       "comment" : "Privacy - Speech Recognition Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Anwendung in iTerm2 möchte die Spracherkennung verwenden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "An application in iTerm2 wants to use speech recognition."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のアプリケーションが音声認識を使用しようとしています。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Um aplicativo no iTerm2 quer usar o reconhecimento de fala."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение в iTerm2 хочет использовать распознавание речи."
           }
         },
         "zh-Hans" : {
@@ -371,16 +659,34 @@
       "comment" : "Privacy - System Administration Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der von einem Programm in iTerm2 ausgeführte Vorgang erfordert erweiterte Berechtigungen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "The operation being performed by a program in iTerm2 requires elevated permission."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTerm2内のプログラムが実行している操作には、管理者権限が必要です。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "A operação sendo executada por um programa no iTerm2 requer permissão elevada."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Операция, выполняемая программой в iTerm2, требует повышенных прав."
           }
         },
         "zh-Hans" : {

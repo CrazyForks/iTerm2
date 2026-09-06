@@ -5,9 +5,21 @@
       "comment": "Class = \"NSTextFieldCell\"; title = \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla\"; ObjectID = \"5Nk-zE-G82\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
             "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla"
           }
         },
@@ -29,10 +41,22 @@
       "comment": "Class = \"NSTextFieldCell\"; title = \"Shell Integration\"; ObjectID = \"F7A-0l-yly\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shell-Integration"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
             "value": "Shell Integration"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "シェル統合"
           }
         },
         "pt-BR": {

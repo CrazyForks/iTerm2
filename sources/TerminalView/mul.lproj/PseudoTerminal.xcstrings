@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Silently ignore errors from this command\"; ObjectID = \"7KR-E5-Cup\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler dieses Befehls stillschweigend ignorieren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Silently ignore errors from this command"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このコマンドのエラーを黙って無視する"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Coprocess command to run:\"; ObjectID = \"542\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auszuführender Coprocess-Befehl:"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Coprocess command to run:"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実行するコプロセスコマンド:"
           }
         },
         "pt-BR" : {
@@ -53,9 +77,21 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"543\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -77,10 +113,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"544\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "pt-BR" : {
@@ -101,10 +149,22 @@
       "comment" : "Class = \"NSComboBoxCell\"; placeholderString = \"Enter Command\"; ObjectID = \"557\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehl eingeben"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Enter Command"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンドを入力"
           }
         },
         "pt-BR" : {

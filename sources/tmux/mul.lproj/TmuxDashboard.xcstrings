@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSWindow\"; title = \"tmux Dashboard\"; ObjectID = \"1\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tmux-Dashboard"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "tmux Dashboard"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tmuxダッシュボード"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Session\"; ObjectID = \"8\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitzung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Session"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "セッション"
           }
         },
         "pt-BR" : {
@@ -53,10 +77,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Attach\"; ObjectID = \"29\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbinden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Attach"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アタッチ"
           }
         },
         "pt-BR" : {
@@ -77,10 +113,22 @@
       "comment" : "Class = \"NSSearchFieldCell\"; placeholderString = \"Search Windows\"; ObjectID = \"31\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fenster durchsuchen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Search Windows"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウィンドウを検索"
           }
         },
         "pt-BR" : {
@@ -101,10 +149,22 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Window\"; ObjectID = \"38\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fenster"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Window"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウィンドウ"
           }
         },
         "pt-BR" : {
@@ -125,10 +185,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Open in Windows\"; ObjectID = \"87\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Fenstern öffnen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Open in Windows"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウィンドウで開く"
           }
         },
         "pt-BR" : {
@@ -149,10 +221,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Hide\"; ObjectID = \"97\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausblenden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Hide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非表示にする"
           }
         },
         "pt-BR" : {
@@ -173,10 +257,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Open in Windows\"; ObjectID = \"98\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Fenstern öffnen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Open in Windows"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウィンドウで開く"
           }
         },
         "pt-BR" : {
@@ -197,10 +293,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Open in Tabs\"; ObjectID = \"99\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Tabs öffnen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Open in Tabs"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タブで開く"
           }
         },
         "pt-BR" : {
@@ -221,10 +329,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Detach\"; ObjectID = \"103\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trennen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Detach"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デタッチ"
           }
         },
         "pt-BR" : {
@@ -245,10 +365,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Open dashboard when attaching if there are hidden windows\"; ObjectID = \"El0-Wa-qm5\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dashboard beim Verbinden öffnen, wenn ausgeblendete Fenster vorhanden sind"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Open dashboard when attaching if there are hidden windows"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠しウィンドウがある場合、アタッチ時にダッシュボードを開く"
           }
         },
         "pt-BR" : {
@@ -269,10 +401,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Don’t open windows when attaching if there are at least this many windows:\"; ObjectID = \"wIU-qt-nuF\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beim Verbinden keine Fenster öffnen, wenn mindestens so viele Fenster vorhanden sind:"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Don’t open windows when attaching if there are at least this many windows:"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウィンドウ数がこの数以上ある場合、アタッチ時にウィンドウを開かない:"
           }
         },
         "pt-BR" : {

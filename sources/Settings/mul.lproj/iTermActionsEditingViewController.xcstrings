@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Action\"; ObjectID = \"3U6-gV-9Ii\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktion"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Action"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクション"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Edit\"; ObjectID = \"CcW-2M-p2J\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearbeiten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "編集"
           }
         },
         "pt-BR" : {
@@ -53,10 +77,22 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Title\"; ObjectID = \"SAm-L0-yhB\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Title"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトル"
           }
         },
         "pt-BR" : {

@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Presets…\"; ObjectID = \"0rv-a0-ans\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voreinstellungen…"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Presets…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プリセット…"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Add Touch Bar Item\"; ObjectID = \"2Vc-Od-Zym\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch-Bar-Element hinzufügen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Add Touch Bar Item"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch Bar項目を追加"
           }
         },
         "pt-BR" : {
@@ -53,10 +77,22 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Action\"; ObjectID = \"8iu-ei-TS7\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktion"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Action"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクション"
           }
         },
         "pt-BR" : {
@@ -77,10 +113,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Touch Bar Mitigations\"; ObjectID = \"j1Y-sT-5wz\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch-Bar-Abhilfen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Touch Bar Mitigations"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch Bar対策"
           }
         },
         "pt-BR" : {
@@ -101,10 +149,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Visual esc key indicator\"; ObjectID = \"jDm-YT-6t1\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visuelle Esc-Tasten-Anzeige"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Visual esc key indicator"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escキーの視覚的インジケーター"
           }
         },
         "pt-BR" : {
@@ -125,10 +185,22 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Key Combination\"; ObjectID = \"Qlz-bw-G7W\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tastenkombination"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Key Combination"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キーの組み合わせ"
           }
         },
         "pt-BR" : {
@@ -149,10 +221,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Haptic feedback when pressing esc\"; ObjectID = \"T2e-te-qXU\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haptisches Feedback beim Drücken von Esc"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Haptic feedback when pressing esc"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escキー押下時の触覚フィードバック"
           }
         },
         "pt-BR" : {
@@ -173,9 +257,21 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"vfN-hY-QgP\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -197,10 +293,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Key click for esc key\"; ObjectID = \"ziz-Lx-Vmu\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tastenklick für die Esc-Taste"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Key click for esc key"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escキーのキークリック音"
           }
         },
         "pt-BR" : {

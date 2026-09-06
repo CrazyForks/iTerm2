@@ -5,16 +5,34 @@
       "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Autocomplete\"; ObjectID = \"9\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autovervollständigung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Autocomplete"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オートコンプリート"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autocompletar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автозаполнение"
           }
         },
         "zh-Hans" : {

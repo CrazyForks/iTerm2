@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSWindow\"; title = \"Profiles\"; ObjectID = \"5\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Profiles"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロファイル"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Edit Profiles...\"; ObjectID = \"321\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile bearbeiten…"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit Profiles..."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロファイルを編集..."
           }
         },
         "pt-BR" : {
@@ -53,10 +77,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"New Tab\"; ObjectID = \"328\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neuer Tab"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "New Tab"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新規タブ"
           }
         },
         "pt-BR" : {
@@ -77,10 +113,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"New Window\"; ObjectID = \"330\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neues Fenster"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "New Window"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新規ウィンドウ"
           }
         },
         "pt-BR" : {
@@ -101,10 +149,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Close this window after opening a profile.\"; ObjectID = \"336\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Fenster nach dem Öffnen eines Profils schließen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Close this window after opening a profile."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロファイルを開いた後にこのウィンドウを閉じる"
           }
         },
         "pt-BR" : {
@@ -125,10 +185,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"New Tabs in New Window\"; ObjectID = \"340\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Tabs in neuem Fenster"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "New Tabs in New Window"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新規ウィンドウに新規タブ"
           }
         },
         "pt-BR" : {
@@ -149,10 +221,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Split Horizontally\"; ObjectID = \"344\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Horizontal teilen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Split Horizontally"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水平に分割"
           }
         },
         "pt-BR" : {
@@ -173,10 +257,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Split Vertically\"; ObjectID = \"351\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vertikal teilen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Split Vertically"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "垂直に分割"
           }
         },
         "pt-BR" : {
@@ -197,10 +293,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Tags >\"; ObjectID = \"QXh-S4-dCz\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tags >"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Tags >"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タグ >"
           }
         },
         "pt-BR" : {

@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSTabViewItem\"; label = \"Description\"; ObjectID = \"11\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschreibung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Description"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "説明"
           }
         },
         "pt-BR" : {
@@ -23,10 +35,22 @@
       "comment" : "Class = \"NSTabViewItem\"; label = \"Crash Log\"; ObjectID = \"12\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Absturzprotokoll"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Crash Log"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クラッシュログ"
           }
         },
         "pt-BR" : {
@@ -41,10 +65,22 @@
       "comment" : "Class = \"NSWindow\"; title = \"Crash Reporter\"; ObjectID = \"5\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Absturzbericht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Crash Reporter"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クラッシュレポーター"
           }
         },
         "pt-BR" : {
@@ -59,10 +95,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"It appears that {APPNAME} crashed the last time it was used. Do you want to send a crash log to the developers?\\n\\nCrash logs from Apple are not sent to other developers, so this is the only way the developers of {APPNAME} can find out about and fix this crash.\"; ObjectID = \"84\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es sieht so aus, als sei {APPNAME} beim letzten Gebrauch abgestürzt. Möchten Sie ein Absturzprotokoll an die Entwickler senden?\n\nAbsturzprotokolle von Apple werden nicht an andere Entwickler gesendet, daher ist dies die einzige Möglichkeit für die Entwickler von {APPNAME}, von diesem Absturz zu erfahren und ihn zu beheben."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "It appears that {APPNAME} crashed the last time it was used. Do you want to send a crash log to the developers?\n\nCrash logs from Apple are not sent to other developers, so this is the only way the developers of {APPNAME} can find out about and fix this crash."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前回使用した際に{APPNAME}がクラッシュしたようです。クラッシュログを開発者に送信しますか？\n\nAppleのクラッシュログは他の開発者には送信されないため、これが{APPNAME}の開発者がこのクラッシュを把握して修正できる唯一の方法です。"
           }
         },
         "pt-BR" : {
@@ -77,10 +125,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"You can delete any information you do not want transmitted, but this will make it more difficult to detect the bug. By default, the crash log as well as what Mac you are using and your settings are transmitted.\"; ObjectID = \"85\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sie können alle Informationen löschen, die Sie nicht übermitteln möchten. Dies erschwert jedoch die Fehlersuche. Standardmäßig werden das Absturzprotokoll sowie Angaben zu Ihrem Mac und Ihren Einstellungen übermittelt."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "You can delete any information you do not want transmitted, but this will make it more difficult to detect the bug. By default, the crash log as well as what Mac you are using and your settings are transmitted."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "送信したくない情報は削除できますが、そうするとバグの特定が難しくなります。デフォルトでは、クラッシュログに加えて、使用しているMacの種類や設定も送信されます。"
           }
         },
         "pt-BR" : {
@@ -95,10 +155,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Send\"; ObjectID = \"86\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Send"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "送信"
           }
         },
         "pt-BR" : {
@@ -113,10 +185,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Remind Me Later\"; ObjectID = \"87\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Später erinnern"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Remind Me Later"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "後で通知"
           }
         },
         "pt-BR" : {
@@ -131,10 +215,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Discard\"; ObjectID = \"88\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwerfen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Discard"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "破棄"
           }
         },
         "pt-BR" : {

@@ -5,16 +5,34 @@
       "comment": "Class = \"NSButtonCell\"; title = \"Black and white\"; ObjectID = \"CkN-Sz-DhG\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schwarz-Weiß"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
             "value": "Black and white"
           }
         },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "白黒"
+          }
+        },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
             "value": "Preto e branco"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чёрно-белый"
           }
         },
         "zh-Hans": {

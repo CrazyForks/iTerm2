@@ -5,16 +5,34 @@
       "comment": "Class = \"NSButtonCell\"; title = \"Export…\"; ObjectID = \"AWP-wp-FTJ\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportieren…"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
             "value": "Export…"
           }
         },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書き出す…"
+          }
+        },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
             "value": "Exportar…"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Экспорт…"
           }
         },
         "zh-Hans": {
@@ -29,16 +47,34 @@
       "comment": "Class = \"NSTextFieldCell\"; title = \"Now\"; ObjectID = \"Hau-2E-Qk8\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jetzt"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
             "value": "Now"
           }
         },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "現在"
+          }
+        },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
             "value": "Agora"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сейчас"
           }
         },
         "zh-Hans": {
@@ -53,16 +89,34 @@
       "comment": "Class = \"NSWindow\"; title = \"Instant Replay Control\"; ObjectID = \"UYp-FA-gZP\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sofortwiedergabe-Steuerung"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
             "value": "Instant Replay Control"
           }
         },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "インスタントリプレイコントロール"
+          }
+        },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
             "value": "Controle do Instant Replay"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Управление мгновенным повтором"
           }
         },
         "zh-Hans": {
@@ -77,16 +131,34 @@
       "comment": "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"Wj9-c2-bSB\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abbrechen"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
             "value": "Cancel"
           }
         },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャンセル"
+          }
+        },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
             "value": "Cancelar"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отмена"
           }
         },
         "zh-Hans": {
@@ -101,16 +173,34 @@
       "comment": "Class = \"NSTextFieldCell\"; title = \"Live View\"; ObjectID = \"gh2-Nt-9U7\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Live-Ansicht"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
             "value": "Live View"
           }
         },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ライブビュー"
+          }
+        },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
             "value": "Visualização ao vivo"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Живой просмотр"
           }
         },
         "zh-Hans": {
@@ -125,16 +215,34 @@
       "comment": "Class = \"NSTextFieldCell\"; title = \"Time\"; ObjectID = \"vJo-pj-XsO\";",
       "extractionState": "extracted_with_value",
       "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeit"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "new",
             "value": "Time"
           }
         },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "時間"
+          }
+        },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
             "value": "Hora"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Время"
           }
         },
         "zh-Hans": {

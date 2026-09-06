@@ -5,10 +5,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Value:\"; ObjectID = \"9X0-kM-Zun\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wert:"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Value:"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "値:"
           }
         },
         "pt-BR" : {
@@ -29,10 +41,22 @@
       "comment" : "Class = \"NSWindow\"; title = \"Edit Snippet\"; ObjectID = \"F0z-JX-Cv5\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snippet bearbeiten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Edit Snippet"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スニペットを編集"
           }
         },
         "pt-BR" : {
@@ -53,10 +77,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Title:\"; ObjectID = \"FHK-6i-O5U\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel:"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Title:"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトル:"
           }
         },
         "pt-BR" : {
@@ -77,10 +113,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Unescaped Literal Text\"; ObjectID = \"Ir3-u6-IAo\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht maskierter literaler Text"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Unescaped Literal Text"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エスケープなしのリテラルテキスト"
           }
         },
         "pt-BR" : {
@@ -101,10 +149,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Use / in tag names to create folders in Edit > Snippets menu\"; ObjectID = \"kno-Mp-5uL\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwenden Sie „/“ in Tag-Namen, um im Menü „Bearbeiten“ > „Snippets“ Ordner zu erstellen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use / in tag names to create folders in Edit > Snippets menu"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タグ名に「/」を使うと、編集 > スニペットメニューにフォルダを作成できます"
           }
         },
         "pt-BR" : {
@@ -125,10 +185,22 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"odn-cj-ca5\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
         "pt-BR" : {
@@ -149,9 +221,21 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"phm-qT-OAU\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -173,10 +257,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"Backward Compatibility Escaping\"; ObjectID = \"y7a-zu-DzO\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escaping für Abwärtskompatibilität"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Backward Compatibility Escaping"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下位互換のためのエスケープ"
           }
         },
         "pt-BR" : {
@@ -197,10 +293,22 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Tags:\"; ObjectID = \"yvg-QD-24S\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tags:"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Tags:"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タグ:"
           }
         },
         "pt-BR" : {
@@ -221,10 +329,22 @@
       "comment" : "Class = \"NSMenuItem\"; title = \"C-Style Backslash Escaping\"; ObjectID = \"zkj-r2-dym\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backslash-Escaping im C-Stil"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "C-Style Backslash Escaping"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C形式のバックスラッシュエスケープ"
           }
         },
         "pt-BR" : {

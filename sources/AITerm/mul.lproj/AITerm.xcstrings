@@ -5,16 +5,34 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"Set Up Artificial Intelligence\"; ObjectID = \"BK3-mM-GDU\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Künstliche Intelligenz einrichten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Set Up Artificial Intelligence"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人工知能を設定"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configurar inteligência artificial"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настроить искусственный интеллект"
           }
         },
         "zh-Hans" : {
@@ -29,16 +47,34 @@
       "comment" : "Class = \"NSTextFieldCell\"; title = \"You may be charged by your AI provider for each token sent or received.\"; ObjectID = \"fuh-hu-cy4\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihr KI-Anbieter kann Ihnen für jedes gesendete oder empfangene Token Kosten berechnen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "You may be charged by your AI provider for each token sent or received."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AIプロバイダーによって、送受信したトークンごとに課金される場合があります。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seu provedor de IA pode cobrar por cada token enviado ou recebido."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваш поставщик ИИ может взимать плату за каждый отправленный или полученный токен."
           }
         },
         "zh-Hans" : {
@@ -53,16 +89,34 @@
       "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"Enter API Key Here\"; ObjectID = \"jnn-BI-0e8\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API-Schlüssel hier eingeben"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Enter API Key Here"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここにAPIキーを入力"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Digite a chave de API aqui"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введите ключ API"
           }
         },
         "zh-Hans" : {
@@ -77,16 +131,34 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"Cancel\"; ObjectID = \"vwS-Bq-W9L\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cancel"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {
@@ -101,9 +173,21 @@
       "comment" : "Class = \"NSButtonCell\"; title = \"OK\"; ObjectID = \"z2s-SU-haO\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -111,6 +195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
           }
         },
         "zh-Hans" : {
