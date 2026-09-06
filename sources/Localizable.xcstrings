@@ -184571,7 +184571,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обезьяна"
+            "value" : "Лемур"
           }
         }
       }
@@ -184643,7 +184643,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Летучая мышь"
+            "value" : "Ёж"
           }
         }
       }
@@ -185291,7 +185291,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оленёнок"
+            "value" : "Хорёк"
           }
         }
       }
@@ -186695,7 +186695,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Крапивник"
+            "value" : "Чиж"
           }
         }
       }

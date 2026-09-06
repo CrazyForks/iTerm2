@@ -269,11 +269,20 @@ and the documentation URL in English.
 - **Length matters.** Some strings live in narrow columns, buttons, or the
   timestamp margin. Prefer compact wording where the English is compact.
 - **Some labels are deliberately short or arbitrary.** A few strings are terse
-  code-names whose literal meaning does not matter (for example, the workgroup
-  animal names). Keep your rendering as short as the English rather than
-  translating it literally; substituting a different but shorter word is fine when
-  the exact word is irrelevant. Honor any comment that says a string must stay
-  short over a faithful-but-longer phrasing.
+  code-names whose literal meaning does not matter. Keep your rendering as short as
+  the English rather than translating it literally; substituting a different but
+  shorter word is fine when the exact word is irrelevant. Honor any comment that
+  says a string must stay short over a faithful-but-longer phrasing.
+  - **Workgroup animal names** (`WorkgroupAnimalNames.*`) are the clearest case:
+    they exist only to be short, distinct, one-word default names, so **choose for
+    brevity, not fidelity**. The English is always a single short word (2 to 5
+    letters). If the literal translation of an animal is long or multi-word (for
+    example German *Fledermaus* for "Bat", or Russian *Летучая мышь*), do **not**
+    use it. Pick a *different*, short, single-word animal in your language instead
+    (a hedgehog, a lynx, whatever is short). Aim to keep every name to roughly the
+    length of the English, and make sure the names stay **unique** within the set
+    (no two keys sharing one translation), since they are used to tell sessions
+    apart.
 - **Right-to-left languages** (Arabic, Hebrew): AppKit mirrors layout
   automatically; focus on the text. Keep any leading/trailing spaces that a
   comment tells you to preserve.
