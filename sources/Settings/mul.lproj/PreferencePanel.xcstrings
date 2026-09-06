@@ -8714,7 +8714,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Linhas de histórico de rolagem:"
+            "value" : "Linhas do histórico:"
           }
         },
         "ru" : {
@@ -8804,7 +8804,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сообщать тип терминала:"
+            "value" : "Тип терминала:"
           }
         },
         "zh-Hans" : {
@@ -14264,7 +14264,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отправлять текст при запуске:"
+            "value" : "Текст при запуске:"
           }
         },
         "zh-Hans" : {
@@ -15524,7 +15524,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузить значения по умолчанию"
+            "value" : "Значения по умолчанию"
           }
         },
         "zh-Hans" : {
@@ -17078,7 +17078,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузить значения по умолчанию"
+            "value" : "Значения по умолчанию"
           }
         },
         "zh-Hans" : {
@@ -27434,7 +27434,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Page Up, Page Down, Home и End прокручивают страницу вне интерактивных приложений"
+            "value" : "Page Up/Down, Home и End прокручивают вне интерактивных программ"
           }
         },
         "zh-Hans" : {
@@ -29576,7 +29576,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Запрашивать подтверждение перед закрытием:"
+            "value" : "Подтверждать закрытие:"
           }
         },
         "zh-Hans" : {
@@ -32156,7 +32156,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Auf einen Pfad in einer Shell-Eingabeaufforderung klicken, um den Navigator zu öffnen"
+            "value" : "Auf einen Pfad im Shell-Prompt klicken, um Navigator zu öffnen"
           }
         },
         "en" : {
@@ -38480,7 +38480,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nachdem eine Sitzung beendet wurde:"
+            "value" : "Nach Sitzungsende:"
           }
         },
         "en" : {
@@ -38504,7 +38504,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "После завершения сессии:"
+            "value" : "После завершения:"
           }
         },
         "zh-Hans" : {
@@ -38840,7 +38840,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шрифт для не-ASCII символов:"
+            "value" : "Шрифт не-ASCII:"
           }
         },
         "zh-Hans" : {
@@ -44060,7 +44060,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "…auch wenn sie sich in einem nicht ausgewählten Tab oder geteilten Bereich befindet"
+            "value" : "…auch in einem nicht ausgewählten Tab oder geteilten Bereich"
           }
         },
         "en" : {
@@ -45236,37 +45236,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Untertitel"
+            "value" : "Untertitel:"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Subtitle"
+            "value" : "Subtitle:"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "サブタイトル"
+            "value" : "サブタイトル:"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subtítulo"
+            "value" : "Subtítulo:"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подзаголовок"
+            "value" : "Подзаголовок:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "副标题"
+            "value" : "副标题："
           }
         }
       }
