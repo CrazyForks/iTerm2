@@ -84,7 +84,7 @@
                             <menuItem isSeparatorItem="YES" id="199">
                                 <modifierMask key="keyEquivalentModifierMask" command="YES"/>
                             </menuItem>
-                            <menuItem title="Preferences..." keyEquivalent="," identifier="Preferences..." id="129">
+                            <menuItem title="Preferences…" keyEquivalent="," identifier="Preferences..." id="129">
                                 <connections>
                                     <action selector="showPrefWindow:" target="201" id="574"/>
                                 </connections>
@@ -505,7 +505,7 @@ DQ
                                 </menu>
                             </menuItem>
                             <menuItem isSeparatorItem="YES" id="1439"/>
-                            <menuItem title="Page Setup..." keyEquivalent="P" identifier="Page Setup..." id="685">
+                            <menuItem title="Page Setup…" keyEquivalent="P" identifier="Page Setup..." id="685">
                                 <connections>
                                     <action selector="runPageLayout:" target="-1" id="691"/>
                                 </connections>
@@ -829,7 +829,7 @@ DQ
                                             </connections>
                                             <accessibility identifier="Clear Find"/>
                                         </menuItem>
-                                        <menuItem title="Find Globally..." keyEquivalent="F" identifier="Find.Find Globally..." id="yIL-PC-jnC">
+                                        <menuItem title="Find Globally…" keyEquivalent="F" identifier="Find.Find Globally..." id="yIL-PC-jnC">
                                             <connections>
                                                 <action selector="findGlobally:" target="201" id="Oyc-5J-YYw"/>
                                             </connections>

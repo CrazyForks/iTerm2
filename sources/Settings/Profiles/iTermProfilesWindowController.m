@@ -120,6 +120,10 @@ typedef enum {
     IBOutlet NSButton* newTabsInNewWindowButton_;
     IBOutlet NSButton* toggleTagsButton_;
     NSImage *_newWindowIcon;
+    // The split-direction symbols set on the pane buttons in the xib. Kept so
+    // updateButtonImagesForModifiers: can restore them when Option is released.
+    NSImage *_horizontalSplitIcon;
+    NSImage *_verticalSplitIcon;
 }
 
 @synthesize tabButton = tabButton_;
@@ -179,17 +183,24 @@ typedef enum {
         [tableView_ setTagsOpen:NO animated:NO];
         [tableView_ setTagsOpen:YES animated:NO];
     }
-    // Load the new window icon for split buttons
+    // Load the new window icon shown on the split buttons while Option is held.
     _newWindowIcon = [NSImage imageWithSystemSymbolName:@"rectangle.badge.plus" accessibilityDescription:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.NewWindowIconAccessibility", nil, [NSBundle mainBundle], @"Open in new window", @"Accessibility description for the open-in-new-window split button icon")];
-    [horizontalPaneButton_ setImagePosition:NSImageLeft];
-    [verticalPaneButton_ setImagePosition:NSImageLeft];
+    // Capture the split-direction symbols from the xib before the modifier
+    // handler runs; it swaps in the new-window icon on Option and restores
+    // these otherwise. Without this it would clear the image (leaving the
+    // buttons blank).
+    _horizontalSplitIcon = horizontalPaneButton_.image;
+    _verticalSplitIcon = verticalPaneButton_.image;
+    [horizontalPaneButton_ setImagePosition:NSImageOnly];
+    [verticalPaneButton_ setImagePosition:NSImageOnly];
 }
 
 - (void)updateButtonImagesForModifiers:(NSEventModifierFlags)modifiers {
     BOOL optionPressed = (modifiers & NSEventModifierFlagOption) != 0;
-    NSImage *image = optionPressed ? _newWindowIcon : nil;
-    [horizontalPaneButton_ setImage:image];
-    [verticalPaneButton_ setImage:image];
+    // Option hints that the action opens in a new window; otherwise show the
+    // button's split-direction symbol from the xib.
+    horizontalPaneButton_.image = optionPressed ? _newWindowIcon : _horizontalSplitIcon;
+    verticalPaneButton_.image = optionPressed ? _newWindowIcon : _verticalSplitIcon;
 }
 
 - (IBAction)closeCurrentSession:(id)sender
@@ -438,7 +449,7 @@ typedef enum {
 
     int count = [[profileTable selectedGuids] count];
     if (count == 1) {
-        [menu addItemWithTitle:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.EditProfile", nil, [NSBundle mainBundle], @"Edit Profile...", @"Context menu item to edit the selected profile")
+        [menu addItemWithTitle:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.EditProfile", nil, [NSBundle mainBundle], @"Edit Profile…", @"Context menu item to edit the selected profile")
                         action:@selector(editSelectedBookmark:)
                  keyEquivalent:@""];
         [menu addItemWithTitle:NSLocalizedStringWithDefaultValue(@"ProfilesWindow.OpenInNewTab", nil, [NSBundle mainBundle], @"Open in New Tab", @"Context menu item to open the selected profile in a new tab")

@@ -20,10 +20,10 @@
         <window title="Edit Snippet" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" hidesOnDeactivate="YES" visibleAtLaunch="NO" animationBehavior="default" id="F0z-JX-Cv5" customClass="NSPanel">
             <windowStyleMask key="styleMask" titled="YES" resizable="YES" documentModal="YES"/>
             <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
-            <rect key="contentRect" x="196" y="240" width="552" height="322"/>
+            <rect key="contentRect" x="196" y="240" width="637" height="322"/>
             <rect key="screenRect" x="0.0" y="0.0" width="1512" height="949"/>
             <view key="contentView" id="se5-gp-TjO">
-                <rect key="frame" x="0.0" y="0.0" width="552" height="322"/>
+                <rect key="frame" x="0.0" y="0.0" width="637" height="322"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="e9K-iQ-WHi">
@@ -54,7 +54,7 @@
                         </textFieldCell>
                     </textField>
                     <textField focusRingType="none" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="JF6-pc-vTg">
-                        <rect key="frame" x="75" y="283" width="457" height="21"/>
+                        <rect key="frame" x="75" y="283" width="542" height="21"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                         <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" borderStyle="border" drawsBackground="YES" id="97V-V3-DPr">
                             <font key="font" metaFont="system"/>
@@ -63,19 +63,19 @@
                         </textFieldCell>
                     </textField>
                     <scrollView fixedFrame="YES" borderType="line" horizontalLineScroll="10" horizontalPageScroll="10" verticalLineScroll="10" verticalPageScroll="10" hasHorizontalScroller="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9ST-EC-FuZ">
-                        <rect key="frame" x="75" y="99" width="457" height="131"/>
+                        <rect key="frame" x="75" y="99" width="542" height="131"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <clipView key="contentView" drawsBackground="NO" copiesOnScroll="NO" id="w6e-IA-se6">
-                            <rect key="frame" x="1" y="1" width="455" height="129"/>
+                            <rect key="frame" x="1" y="1" width="540" height="129"/>
                             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             <subviews>
                                 <textView importsGraphics="NO" richText="NO" verticallyResizable="YES" allowsUndo="YES" textCompletion="NO" id="RYC-Fx-alf">
-                                    <rect key="frame" x="0.0" y="0.0" width="455" height="129"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="540" height="129"/>
                                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
-                                    <size key="minSize" width="455" height="129"/>
-                                    <size key="maxSize" width="455" height="10000000"/>
+                                    <size key="minSize" width="540" height="129"/>
+                                    <size key="maxSize" width="542" height="10000000"/>
                                     <color key="insertionPointColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                 </textView>
                             </subviews>
@@ -85,12 +85,12 @@
                             <autoresizingMask key="autoresizingMask"/>
                         </scroller>
                         <scroller key="verticalScroller" wantsLayer="YES" verticalHuggingPriority="750" horizontal="NO" id="QbB-rg-Mv4">
-                            <rect key="frame" x="439" y="1" width="17" height="129"/>
+                            <rect key="frame" x="524" y="1" width="17" height="129"/>
                             <autoresizingMask key="autoresizingMask"/>
                         </scroller>
                     </scrollView>
                     <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WoX-Ce-6DQ">
-                        <rect key="frame" x="479" y="13" width="59" height="32"/>
+                        <rect key="frame" x="564" y="13" width="59" height="32"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
                         <buttonCell key="cell" type="push" title="OK" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="phm-qT-OAU">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -105,7 +105,7 @@ DQ
                         </connections>
                     </button>
                     <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vWt-RK-DVg">
-                        <rect key="frame" x="385" y="13" width="82" height="32"/>
+                        <rect key="frame" x="470" y="13" width="82" height="32"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
                         <buttonCell key="cell" type="push" title="Cancel" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="odn-cj-ca5">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -136,7 +136,7 @@ Gw
                     </popUpButton>
                     <button horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zTU-4k-14B">
                         <rect key="frame" x="397" y="64" width="25" height="25"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <buttonCell key="cell" type="help" bezelStyle="helpButton" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="YEd-Zi-ZnW">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                             <font key="font" metaFont="system"/>
@@ -146,7 +146,7 @@ Gw
                         </connections>
                     </button>
                     <tokenField focusRingType="none" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="jIS-Xa-uKb">
-                        <rect key="frame" x="75" y="254" width="457" height="21"/>
+                        <rect key="frame" x="75" y="254" width="542" height="21"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                         <tokenFieldCell key="cell" selectable="YES" editable="YES" borderStyle="bezel" alignment="left" drawsBackground="YES" allowsEditingTextAttributes="YES" id="JkR-9N-jMD">
                             <font key="font" metaFont="system"/>
@@ -155,7 +155,7 @@ Gw
                         </tokenFieldCell>
                     </tokenField>
                     <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Qbi-CU-vYq">
-                        <rect key="frame" x="75" y="238" width="459" height="14"/>
+                        <rect key="frame" x="75" y="238" width="544" height="14"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                         <textFieldCell key="cell" controlSize="small" lineBreakMode="clipping" title="Use / in tag names to create folders in Edit &gt; Snippets menu" id="kno-Mp-5uL">
                             <font key="font" metaFont="smallSystem"/>
@@ -168,7 +168,7 @@ Gw
             <connections>
                 <outlet property="delegate" destination="-2" id="0bl-1N-AYu"/>
             </connections>
-            <point key="canvasLocation" x="184" y="164"/>
+            <point key="canvasLocation" x="226.5" y="164"/>
         </window>
     </objects>
 </document>

@@ -595,7 +595,9 @@ objectValueForTableColumn:(NSTableColumn *)tableColumn
 }
 
 - (void)buildWindow {
-    const CGFloat width = 540;
+    // Wide enough for the API-key hint line under the API popup to fit longer
+    // localizations (e.g. Russian) without truncating.
+    const CGFloat width = 590;
     // Extra height over the base layout makes room for the API-key hint line
     // under the API popup and the custom-headers section near the bottom.
     const CGFloat height = 706;

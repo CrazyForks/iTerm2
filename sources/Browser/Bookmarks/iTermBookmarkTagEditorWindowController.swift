@@ -88,7 +88,7 @@ class iTermBookmarkTagEditorWindowController: NSWindowController {
         tagsTokenField = NSTokenField()
         tagsTokenField.translatesAutoresizingMaskIntoConstraints = false
         tagsTokenField.delegate = self
-        tagsTokenField.placeholderString = String(localized: "BookmarkTagEditor.TagsPlaceholder", defaultValue: "Enter tags...", comment: "Placeholder text in the tags entry field")
+        tagsTokenField.placeholderString = String(localized: "BookmarkTagEditor.TagsPlaceholder", defaultValue: "Enter tags…", comment: "Placeholder text in the tags entry field")
 
         // Buttons
         deleteButton = NSButton(title: String(localized: "BookmarkTagEditor.DeleteBookmark", defaultValue: "Delete Bookmark", comment: "Title/label for deleting a bookmark"), target: self, action: #selector(deleteBookmark))

@@ -88,6 +88,9 @@ class iTermWorkgroupSessionDetailViewController: NSViewController {
     private let rowHeight: CGFloat = 22
     private let rowSpacing: CGFloat = 6
     private let labelGutter: CGFloat = 100
+    // Minimum gap kept between a row label and its control when a
+    // (localized) label is wide enough to reach past labelGutter.
+    private let labelControlGap: CGFloat = 8
 
     private let splitLocationMin = 0.2
     private let splitLocationMax = 0.8
@@ -472,10 +475,17 @@ class iTermWorkgroupSessionDetailViewController: NSViewController {
         let label = row.subviews[0] as? NSTextField
         let control = row.subviews[1]
         let h = row.bounds.height
+        let labelWidth = label?.frame.width ?? 0
         label?.frame.origin = NSPoint(x: margin, y: (h - (label?.frame.height ?? 17)) / 2)
-        control.frame = NSRect(x: labelGutter,
+        // The control normally starts at labelGutter. If a localized label
+        // (e.g. a long translation of "Shortcut:") is wide enough to reach
+        // the gutter, push the control right so it clears the label. The
+        // control's right edge stays at row.width - margin, so it shrinks to
+        // make room rather than the label overlapping it.
+        let controlLeft = max(labelGutter, margin + labelWidth + labelControlGap)
+        control.frame = NSRect(x: controlLeft,
                                y: 0,
-                               width: max(0, row.bounds.width - labelGutter - margin),
+                               width: max(0, row.bounds.width - controlLeft - margin),
                                height: h)
     }
 

@@ -660,7 +660,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
     [theMenu addItem:[NSMenuItem separatorItem]];
 
     // Edit Session
-    add(NSLocalizedStringWithDefaultValue(@"ContextMenu.EditSession", nil, [NSBundle mainBundle], @"Edit Session...", @"Context menu item to edit the session"), @selector(editTextViewSession:));
+    add(NSLocalizedStringWithDefaultValue(@"ContextMenu.EditSession", nil, [NSBundle mainBundle], @"Edit Session…", @"Context menu item to edit the session"), @selector(editTextViewSession:));
 
     // Separator
     [theMenu addItem:[NSMenuItem separatorItem]];

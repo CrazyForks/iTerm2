@@ -361,7 +361,7 @@ const CGFloat sideMarginWidth = 40;
         [[iTermSearchableComboViewGroup alloc] initWithLabel:NSLocalizedStringWithDefaultValue(@"EditKeyAction.GroupGeneral", nil, [NSBundle mainBundle], @"General", @"Action group: General") items:[@[
             primary ? [[iTermSearchableComboViewItem alloc] initWithLabel:NSLocalizedStringWithDefaultValue(@"EditKeyAction.ActionIgnore", nil, [NSBundle mainBundle], @"Ignore", @"Action name: Ignore") tag:KEY_ACTION_IGNORE] : [NSNull null],
             primary ? [[iTermSearchableComboViewItem alloc] initWithLabel:NSLocalizedStringWithDefaultValue(@"EditKeyAction.ActionBypassTerminal", nil, [NSBundle mainBundle], @"Bypass Terminal", @"Action name: Bypass Terminal") tag:KEY_ACTION_BYPASS] : [NSNull null],
-            [[iTermSearchableComboViewItem alloc] initWithLabel:NSLocalizedStringWithDefaultValue(@"EditKeyAction.ActionSelectMenuItem", nil, [NSBundle mainBundle], @"Select Menu Item...", @"Action name: Select Menu Item") tag:KEY_ACTION_SELECT_MENU_ITEM],
+            [[iTermSearchableComboViewItem alloc] initWithLabel:NSLocalizedStringWithDefaultValue(@"EditKeyAction.ActionSelectMenuItem", nil, [NSBundle mainBundle], @"Select Menu Item…", @"Action name: Select Menu Item") tag:KEY_ACTION_SELECT_MENU_ITEM],
         ] arrayByRemovingNulls]]
     ];
     if (self.mode == iTermEditKeyActionWindowControllerModeKeyboardShortcut) {
