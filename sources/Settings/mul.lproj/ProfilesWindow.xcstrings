@@ -56,25 +56,25 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Edit Profiles..."
+            "value" : "Edit Profiles…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プロファイルを編集..."
+            "value" : "プロファイルを編集…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editar perfis..."
+            "value" : "Editar perfis…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изменить профили..."
+            "value" : "Изменить профили…"
           }
         },
         "zh-Hans" : {
@@ -255,7 +255,7 @@
     },
     "344.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"Split Horizontally\"; ObjectID = \"344\";",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -297,7 +297,7 @@
     },
     "351.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"Split Vertically\"; ObjectID = \"351\";",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {

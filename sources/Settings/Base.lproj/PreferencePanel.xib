@@ -8361,7 +8361,7 @@ You can choose to define the characters considered part of a word with a regular
                                                 </connections>
                                             </button>
                                             <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YYR-pl-zPM">
-                                                <rect key="frame" x="46" y="141" width="144" height="17"/>
+                                                <rect key="frame" x="18" y="141" width="172" height="17"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                                 <textFieldCell key="cell" lineBreakMode="clipping" alignment="right" title="Save changes:" id="6Dp-co-GtB">
                                                     <font key="font" metaFont="system"/>
@@ -8410,7 +8410,7 @@ You can choose to define the characters considered part of a word with a regular
                                                 </connections>
                                             </button>
                                             <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tsJ-bg-61W">
-                                                <rect key="frame" x="34" y="201" width="156" height="16"/>
+                                                <rect key="frame" x="18" y="201" width="172" height="16"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                                 <textFieldCell key="cell" lineBreakMode="clipping" alignment="right" title="External  settings:" id="Pmq-3t-6WB">
                                                     <font key="font" metaFont="system"/>
@@ -8419,7 +8419,7 @@ You can choose to define the characters considered part of a word with a regular
                                                 </textFieldCell>
                                             </textField>
                                             <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="oCd-zk-hpR">
-                                                <rect key="frame" x="34" y="96" width="156" height="16"/>
+                                                <rect key="frame" x="18" y="96" width="172" height="16"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                                 <textFieldCell key="cell" lineBreakMode="clipping" alignment="right" title="Backup &amp; restore:" id="2JC-Pw-mnp">
                                                     <font key="font" metaFont="system"/>
@@ -8439,7 +8439,7 @@ You can choose to define the characters considered part of a word with a regular
                                                 </connections>
                                             </button>
                                             <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="RPd-sE-9My">
-                                                <rect key="frame" x="34" y="20" width="156" height="16"/>
+                                                <rect key="frame" x="18" y="20" width="172" height="16"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                                 <textFieldCell key="cell" lineBreakMode="clipping" alignment="right" title="Reset:" id="Ecm-c4-bUs">
                                                     <font key="font" metaFont="system"/>

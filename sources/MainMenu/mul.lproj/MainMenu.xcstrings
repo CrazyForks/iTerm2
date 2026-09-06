@@ -1856,31 +1856,31 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einstellungen..."
+            "value" : "Einstellungen…"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Preferences..."
+            "value" : "Preferences…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "環境設定..."
+            "value" : "環境設定…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustes..."
+            "value" : "Ajustes…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Настройки..."
+            "value" : "Настройки…"
           }
         },
         "zh-Hans" : {
@@ -2696,31 +2696,31 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Papierformat..."
+            "value" : "Papierformat…"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Page Setup..."
+            "value" : "Page Setup…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ページ設定..."
+            "value" : "ページ設定…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configurar página..."
+            "value" : "Configurar página…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Параметры страницы..."
+            "value" : "Параметры страницы…"
           }
         },
         "zh-Hans" : {
@@ -15314,31 +15314,31 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Global suchen..."
+            "value" : "Global suchen…"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Find Globally..."
+            "value" : "Find Globally…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "全体を検索..."
+            "value" : "全体を検索…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar globalmente..."
+            "value" : "Buscar globalmente…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Найти везде..."
+            "value" : "Найти везде…"
           }
         },
         "zh-Hans" : {

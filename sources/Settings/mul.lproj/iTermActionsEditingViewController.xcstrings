@@ -45,7 +45,7 @@
     },
     "CcW-2M-p2J.title" : {
       "comment" : "Class = \"NSButtonCell\"; title = \"Edit\"; ObjectID = \"CcW-2M-p2J\";",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {

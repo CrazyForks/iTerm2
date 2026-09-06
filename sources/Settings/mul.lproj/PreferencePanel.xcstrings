@@ -2600,42 +2600,42 @@
       }
     },
     "6Dp-co-GtB.title" : {
-      "comment" : "Class = \"NSTextFieldCell\"; title = \"Save changes\"; ObjectID = \"6Dp-co-GtB\";",
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Save changes:\"; ObjectID = \"6Dp-co-GtB\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Änderungen speichern:"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Save changes"
+            "value" : "Save changes:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "変更を保存:"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Salvar alterações"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Сохранять изменения:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "存储更改"
           }
         }
@@ -8948,31 +8948,31 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weitere Aktionen..."
+            "value" : "Weitere Aktionen…"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Other Actions..."
+            "value" : "Other Actions…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "その他のアクション..."
+            "value" : "その他のアクション…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Outras ações..."
+            "value" : "Outras ações…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Другие действия..."
+            "value" : "Другие действия…"
           }
         },
         "zh-Hans" : {
@@ -9200,31 +9200,31 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Massenkopie vom ausgewählten Profil..."
+            "value" : "Massenkopie vom ausgewählten Profil…"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Bulk Copy from Selected Profile..."
+            "value" : "Bulk Copy from Selected Profile…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選択したプロファイルから一括コピー..."
+            "value" : "選択したプロファイルから一括コピー…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiar em massa do perfil selecionado..."
+            "value" : "Copiar em massa do perfil selecionado…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Массовое копирование из выбранного профиля..."
+            "value" : "Массовое копирование из выбранного профиля…"
           }
         },
         "zh-Hans" : {
@@ -22634,7 +22634,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "System-Prompt für die Codeüberprüfung"
+            "value" : "Code-Review-System-Prompt"
           }
         },
         "en" : {
@@ -23348,7 +23348,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verhindert, dass das System in den Ruhezustand wechselt, solange eine Sitzung diese Einstellung aktiviert hat."
+            "value" : "Hält das System wach, solange eine Sitzung dies aktiviert hat."
           }
         },
         "en" : {
@@ -24596,7 +24596,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Debug-Protokolle der automatischen Profilumschaltung in die Skriptkonsole schreiben (⌥⌘J)"
+            "value" : "Debug-Protokoll der Profilumschaltung in die Skriptkonsole (⌥⌘J)"
           }
         },
         "en" : {
@@ -25058,7 +25058,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neuzeichnen vermeiden, während der Cursor ausgeblendet ist, um Flackern beim Scrollen zu reduzieren"
+            "value" : "Neuzeichnen bei ausgeblendetem Cursor vermeiden, um Scroll-Flackern zu reduzieren"
           }
         },
         "en" : {
@@ -27938,7 +27938,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отключить все подтверждения при завершении работы системы, перезагрузке и выходе"
+            "value" : "Не подтверждать выключение, перезагрузку и выход"
           }
         },
         "zh-Hans" : {
@@ -29546,42 +29546,42 @@
       }
     },
     "iZE-xA-Mxl.title" : {
-      "comment" : "Class = \"NSTextFieldCell\"; title = \"Prompt before closing?\"; ObjectID = \"iZE-xA-Mxl\";",
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Prompt before closing:\"; ObjectID = \"iZE-xA-Mxl\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Vor dem Schließen nachfragen:"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Prompt before closing?"
+            "value" : "Prompt before closing:"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "閉じる前に確認する:"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Perguntar antes de fechar:"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Запрашивать подтверждение перед закрытием:"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "关闭前提示？"
           }
         }
