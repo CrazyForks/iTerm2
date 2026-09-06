@@ -81,6 +81,11 @@
                                 </connections>
                                 <accessibility identifier="Capture GPU Frame"/>
                             </menuItem>
+                            <menuItem title="Check Settings Control Truncation" id="iTS-tc-Mnu">
+                                <connections>
+                                    <action selector="debugCheckSettingsControlTruncation:" target="201" id="iTS-tc-Act"/>
+                                </connections>
+                            </menuItem>
                             <menuItem isSeparatorItem="YES" id="199">
                                 <modifierMask key="keyEquivalentModifierMask" command="YES"/>
                             </menuItem>
@@ -2371,6 +2376,7 @@ DQ
                 <outlet property="_archivesMenuItem" destination="fb0-0W-qYG" id="Vfm-kg-kma"/>
                 <outlet property="_buriedSessions" destination="PTu-aD-qbz" id="Fl9-Gn-jv2"/>
                 <outlet property="_captureGPUFrameMenuItem" destination="8KO-hG-xdC" id="boz-fC-4l8"/>
+                <outlet property="_checkSettingsTruncationMenuItem" destination="iTS-tc-Mnu" id="iTS-tc-Out"/>
                 <outlet property="_composerMenuItem" destination="Bhs-45-5yR" id="Od6-HK-qOR"/>
                 <outlet property="_enterFullScreenMenuItem" destination="914" id="pbn-Hb-GK3"/>
                 <outlet property="_installPythonRuntime" destination="0D0-tt-wlA" id="nad-Fp-mh8"/>

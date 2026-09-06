@@ -448,6 +448,29 @@ andEditComponentWithIdentifier:(NSString *)identifier
     [self resizeWindowForTabViewItem:_tabView.selectedTabViewItem animated:animated];
 }
 
+#if ITERM_DEBUG
+- (void)debugCheckControlTruncationWithTopLabel:(NSString *)topLabel
+                                         window:(NSWindow *)window {
+    [self selectFirstProfileIfNecessary];
+    // Detach the delegate so tab selection doesn't trigger an animated resize.
+    id<NSTabViewDelegate> savedDelegate = _tabView.delegate;
+    _tabView.delegate = nil;
+    NSTabViewItem *savedSelection = _tabView.selectedTabViewItem;
+    for (NSTabViewItem *item in [_tabView.tabViewItems copy]) {
+        [_tabView selectTabViewItem:item];
+        [self resizeWindowForCurrentTabAnimated:NO];
+        [window layoutIfNeeded];
+        NSString *subLabel = item.label ?: @"?";
+        [iTermSettingsTruncationChecker check:(item.view ?: self.view)
+                                         path:@[topLabel, subLabel]];
+    }
+    if (savedSelection) {
+        [_tabView selectTabViewItem:savedSelection];
+    }
+    _tabView.delegate = savedDelegate;
+}
+#endif
+
 #pragma mark - ProfileListViewDelegate
 
 - (void)profileTableSelectionDidChange:(id)profileTable {

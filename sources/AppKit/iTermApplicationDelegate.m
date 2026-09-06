@@ -221,6 +221,10 @@ static BOOL hasBecomeActive = NO;
     IBOutlet NSMenuItem *_enterFullScreenMenuItem;
     IBOutlet NSMenu *_iterm2Menu;
     IBOutlet NSMenuItem *_captureGPUFrameMenuItem;
+    // Debug-only "Check Settings Control Truncation" item. Declared in all builds
+    // so the XIB outlet always resolves; removed at nib-load time when ITERM_DEBUG
+    // is not defined (see -awakeFromNib).
+    IBOutlet NSMenuItem *_checkSettingsTruncationMenuItem;
     IBOutlet NSMenuItem *_namedMarksMenuItem;
     IBOutlet NSMenuItem *_toolbeltMenuItem;
     IBOutlet NSMenuItem *_webMenuItem;
@@ -410,6 +414,11 @@ static NSModalResponse iTermCompareRenderingRunModal(id self, SEL _cmd) {
     if (isReleaseBuild) {
         [_iterm2Menu removeItem:_captureGPUFrameMenuItem];
     }
+#if !ITERM_DEBUG
+    // "Check Settings Control Truncation" is a Development-only diagnostic; drop it
+    // from the menu in every build that doesn't define ITERM_DEBUG.
+    [_iterm2Menu removeItem:_checkSettingsTruncationMenuItem];
+#endif
 
     [[iTermBuriedSessions sharedInstance] setMenus:[NSArray arrayWithObjects:_buriedSessions, _statusIconBuriedSessions, nil]];
     _triggers.submenu.delegate = self;
@@ -1786,6 +1795,12 @@ void TurnOnDebugLoggingAutomatically(void) {
     [appMenu addItem:item];
 #endif
 }
+
+#if ITERM_DEBUG
+- (IBAction)debugCheckSettingsControlTruncation:(id)sender {
+    [[PreferencePanel sharedInstance] debugCheckControlTruncation];
+}
+#endif
 
 #if DEBUG
 - (IBAction)toggleKeyRecording:(id)sender {

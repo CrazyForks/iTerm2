@@ -849,6 +849,85 @@ andEditComponentWithIdentifier:(NSString *)identifier
     }];
 }
 
+#if ITERM_DEBUG
+// Debug-only: walk every tab (and sub-tab) of the Settings window and report any
+// control whose localized text is truncated in the current UI locale. Findings
+// go to stderr via iTermSettingsTruncationChecker.
+- (void)debugCheckControlTruncation {
+    [self runAndShow:YES];
+    NSWindow *window = self.window;
+
+    [iTermSettingsTruncationChecker beginReport];
+
+    // Detach the outer tab view delegate so selecting tabs doesn't trigger the
+    // usual animated window resize (which would leave geometry in a transient
+    // state while we measure). We drive the resize ourselves, non-animated.
+    id<NSTabViewDelegate> savedDelegate = _tabView.delegate;
+    _tabView.delegate = nil;
+    NSTabViewItem *savedSelection = _tabView.selectedTabViewItem;
+
+    for (NSTabViewItem *item in [_tabView.tabViewItems copy]) {
+        [_tabView selectTabViewItem:item];
+        NSString *topLabel = [self toolbarItemForTabViewItem:item].label ?: item.label ?: @"?";
+
+        // The Profiles tab manages its own inner tab view and per-tab view
+        // controllers, so hand it off to a dedicated helper.
+        if (item == _profilesTabViewItem) {
+            [_profilesViewController debugCheckControlTruncationWithTopLabel:topLabel
+                                                                     window:window];
+            continue;
+        }
+
+        // Size the window for this tab before measuring.
+        [self resizeWindowForTabViewItem:item animated:NO];
+        [window layoutIfNeeded];
+
+        iTermPreferencesBaseViewController *vc = [self viewControllerForTabViewItem:item];
+        NSTabView *inner = vc.tabView;
+        if (inner != nil) {
+            id<NSTabViewDelegate> savedInnerDelegate = inner.delegate;
+            inner.delegate = nil;
+            NSTabViewItem *savedInner = inner.selectedTabViewItem;
+            for (NSTabViewItem *sub in [inner.tabViewItems copy]) {
+                [inner selectTabViewItem:sub];
+                [vc resizeWindowForCurrentTabAnimated:NO];
+                [window layoutIfNeeded];
+                NSString *subLabel = sub.label ?: @"?";
+                [iTermSettingsTruncationChecker check:(sub.view ?: vc.view)
+                                                 path:@[topLabel, subLabel]];
+            }
+            if (savedInner) {
+                [inner selectTabViewItem:savedInner];
+            }
+            inner.delegate = savedInnerDelegate;
+        } else {
+            NSView *root = vc.view ?: item.view;
+            if (root) {
+                [iTermSettingsTruncationChecker check:root path:@[topLabel]];
+            }
+        }
+    }
+
+    // Restore the original selection and delegate, then put the window back to
+    // the size the originally-selected tab needs. During the sweep the delegate
+    // was detached, so nothing resized the window afterward; without this the
+    // window is left at the size of the last (often largest) tab we visited.
+    // This mirrors -tabView:didSelectTabViewItem:.
+    if (savedSelection) {
+        [_tabView selectTabViewItem:savedSelection];
+    }
+    _tabView.delegate = savedDelegate;
+    if (savedSelection == _profilesTabViewItem) {
+        [_profilesViewController resizeWindowForCurrentTabAnimated:NO];
+    } else if (savedSelection) {
+        [self resizeWindowForTabViewItem:savedSelection animated:NO];
+    }
+    [window layoutIfNeeded];
+
+    [iTermSettingsTruncationChecker endReport];
+}
+#endif
+
 #pragma mark - NSWindowController
 
 - (void)windowWillLoad {
