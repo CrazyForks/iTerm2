@@ -2873,3 +2873,7 @@ Bug Fixes:
   right of a collapsed tab group in the Minimal
   theme when the group was the rightmost item
   in the tab bar.
+- Fixed a bug where dismissing a confirmation in
+  certain Settings sheets (such as the hotkey
+  configuration or special exceptions panels)
+  would bring a terminal window to the front.
